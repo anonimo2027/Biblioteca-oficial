@@ -3,8 +3,8 @@
 <channels>
 
 <channel>
-<name>[B]LANÇAMENTOS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Lançamentos.png</thumbnail>
+<name>[B]TÍTULOS[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Títulos.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/lan%C3%A7amentos.xml</externallink>
@@ -21,22 +21,6 @@
 <channel>
 <name>[B]NOVELAS[/B]</name>
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Novelas.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]GÊNEROS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Gêneros.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]TÍTULOS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Títulos.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
