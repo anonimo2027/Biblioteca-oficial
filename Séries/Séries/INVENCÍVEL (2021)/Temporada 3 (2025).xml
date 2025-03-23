@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<channels>
-
-<channel>
-<title>Temporadas</title>
-<thumbnail>https://image.tmdb.org/t/p/original/29myVHhdGoS735ZJ9hblY0pQ3K9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ohjinjQAEKxqdP5IK8TcUpLrKgE.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/lan%C3%A7amentos.xml</externallink>
-</channel>
-
 <item>
 <title>INVENCÍVEL S03E01</title>
 <genre>Action & Adventure, Crime, Drama</genre>
@@ -20,6 +11,5 @@
 <year>2022</year>
 </item>
 
-<channels>
 
 </items>
