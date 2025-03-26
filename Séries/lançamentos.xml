@@ -3,6 +3,16 @@
 <channels>
 
 <channel>
+<name>Bebê Rena</name>
+<year>2024</year>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/fJQhUBShLBPSKNzcGg1tf0kHMyo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uRey96NI3bczuyDyT68q0rUhgUk.jpg</fanart>
+<info>Um comediante é gentil com uma mulher vulnerável, despertando uma obsessão sufocante que pode acabar com as vidas dos dois.</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/S%C3%A9ries/INVENC%C3%8DVEL%20(2021)/Temporada%203%20(2025).xml</externallink>
+</channel>
+
+<channel>
 <name>INVENCÍVEL</name>
 <year>2025</year>
 <genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
