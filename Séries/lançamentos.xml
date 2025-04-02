@@ -2,6 +2,17 @@
 
 <channels>
 
+
+<channel>
+<name>Wandinha</name>
+<year>2020</year>
+<genre>Sci-Fi & Fantasy, Mistério, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg</fanart>
+<info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/S%C3%A9ries/Wandinha%20(2022)/Temporada%201%20(2020).xml</externallink>
+</channel>
+
 <channel>
 <name>Uma Família Perfeita</name>
 <year>2025</year>
