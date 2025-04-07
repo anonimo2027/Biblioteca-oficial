@@ -1,5 +1,5 @@
 name="Abominável"
-url="https://www.mediafire.com/file/4pttevmh7ql0z3n/dica.mp4/file"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.lofirecords.zip"
 iconimage="https://image.tmdb.org/t/p/original/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg"
 fanart="https://image.tmdb.org/t/p/original/tLCDKsXo6D84IVFanoElosSEKdp.jpg"
 <year>2018</year>
