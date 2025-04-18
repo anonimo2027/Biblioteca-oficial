@@ -1,5 +1,5 @@
 name="Novocaine: À Prova de Dor"
-url="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icons/Pequenos%20Guerreiros%20(1998).zip"
+url="https://www.mediafire.com/file/nt90nocr7phx8y1/Pequenos+Guerreiros+(1998).zip/file"
 iconimage="https://image.tmdb.org/t/p/original/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg"
 fanart="https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg"
 description="Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos."
