@@ -3,4 +3,4 @@ url="https://image.tmdb.org/t/p/original/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg"
 iconimage="https://image.tmdb.org/t/p/original/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg"
 fanart="https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg"
 description="Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos."
-skin_id="sxxx"
+genre=None
