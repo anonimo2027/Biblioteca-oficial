@@ -6,7 +6,7 @@
 <genre>Drama, Mistério, Soap, Crime</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/tdEknOECKODv0IAgx2pOQfsjBBb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg</fanart>
-<link>PlayMedia(plugin://Kodish.repo.store/?url=https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/plugin.video.Addon.GhostHaunt.zip&amp;mode=2&amp;name=Ghost+Haunter)</link>
+<link>PlayMedia("plugin://Kodish.repo.store/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkodishmediacenter%2Fkodi19%2Fmaster%2Fplugin.video.Addon.GhostHaunt.zip&amp;mode=2&amp;name=Ghost+Haunter&amp;fanart=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F16a5f7e8-64d3-49b3-9008-22ba2747dc82%2Ffanart.jpg&amp;iconimage=https%3A%2F%2Fraw.githubusercontent.com%2Fkodishmediacenter%2Fstorek202%2Fmain%2Ficons%2Ficon-Ghunter.png&amp;description=Addon+aprovado+pela+kodish&amp;skin=plugin.video.ghosthaunter&amp;setaddon=")</link>
 <info></info>
 <year>2012</year>
 </item>
