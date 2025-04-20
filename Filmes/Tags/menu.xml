@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[B]NACIONAIS[/B]</name>
+<name>[B]FILMES: NACIONAIS[/B]</name>
 <genre>FILMES (120)</genre>
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\nacionais.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[B]FILMES GOSPEL[/B]</name>
+<name>[B]FILMES: GOSPEL[/B]</name>
 <genre>FILMES (120)</genre>
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Gospel.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
