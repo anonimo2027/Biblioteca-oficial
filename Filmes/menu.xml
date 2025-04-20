@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>[B]TAGS[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Tags.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
+<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/todos.xml</externallink>
+</channel>
+
+<channel>
 <name>[B]TÍTULOS[/B]</name>
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Títulos.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
