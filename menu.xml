@@ -25,14 +25,5 @@
 <info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/lan%C3%A7amentos.xml</externallink>
 </channel>
-
-<channel>
-<name>[B]DOWNLOADS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Downloads.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/lan%C3%A7amentos.xml</externallink>
-</channel>
-
   
 </channels>
