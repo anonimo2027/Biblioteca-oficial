@@ -22,7 +22,7 @@
 
 <channel>
 <name>[B]FILMES: LUTA[/B]</name>
-<genre>FILMES (120)</genre>
+<genre>FILMES (120)</genre> 
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Luta.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>Melhores filmes de luta você encontra aqui no anônimo via link direto, Caso seus filmes favorito não esteja nessa lista por favor solicite suas sugestões no nosso site, E veremos a possibilidade do seu filme favoritos ser adicionado.</info>
@@ -39,9 +39,9 @@
 </channel>
 
 <channel>
-<name>[B]FILMES: KIDIS[/B]</name>
+<name>[B]FILMES: KIDS[/B]</name>
 <genre>FILMES (120)</genre>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Kidis.png</thumbnail>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Kids.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>Melhores filmes kidis você encontra aqui no anônimo via link direto, Caso seus filmes favorito não esteja nessa lista por favor solicite suas sugestões no nosso site, E veremos a possibilidade do seu filme favoritos ser adicionado.</info>
 <externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/Tags/KIDIS.xml</externallink>
