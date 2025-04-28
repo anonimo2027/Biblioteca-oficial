@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-
-<channel>
-<name>[B]TV AO VIVO[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\TV ao Vivo.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/TV%20ao%20Vivo/menu.xml</externallink>
-</channel>
   
 <channel>
 <name>[B]FILMES[/B]</name>
@@ -18,12 +10,4 @@
 <externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/menu.xml</externallink>
 </channel>
 
-<channel>
-<name>[B]SERIES[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Séries.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/menu.xml</externallink>
-</channel>
-  
 </channels>
