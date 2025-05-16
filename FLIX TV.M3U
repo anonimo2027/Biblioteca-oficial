@@ -1,0 +1,1441 @@
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://lfpy.club/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
+http://ntvbr.cc:80/321671/819955/293.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD][H265]" tvg-logo="http://lfpy.club/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30227.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://lfpy.club/APV" group-title="Canais | Filmes e Séries",A&E [HD]
+http://ntvbr.cc:80/321671/819955/299.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [SD]" tvg-logo="http://lfpy.club/AQR" group-title="Canais | Filmes e Séries",A&E [SD]
+http://ntvbr.cc:80/321671/819955/324.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://lfpy.club/ARX3" group-title="Canais | Filmes e Séries",ADULT SWIM [HD]
+http://ntvbr.cc:80/321671/819955/199850.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo="http://lfpy.club/ARX2" group-title="Canais | Filmes e Séries",ADULT SWIM [SD]
+http://ntvbr.cc:80/321671/819955/199849.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="AgroMais [FHD]" tvg-logo="http://lfpy.club/VRH" group-title="Canais | Variedades",AgroMais [FHD]
+http://ntvbr.cc:80/321671/819955/109512.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [FHD][H265]" tvg-logo="" group-title="Canais | Variedades",AgroMais [FHD][H265]
+http://ntvbr.cc:80/321671/819955/234104.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [FHD][HDR]" tvg-logo="" group-title="Canais | Variedades",AgroMais [FHD][HDR]
+http://ntvbr.cc:80/321671/819955/234103.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [HD]" tvg-logo="" group-title="Canais | Variedades",AgroMais [HD]
+http://ntvbr.cc:80/321671/819955/234105.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [SD]" tvg-logo="" group-title="Canais | Variedades",AgroMais [SD]
+http://ntvbr.cc:80/321671/819955/234106.ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC [FHD]" tvg-logo="http://lfpy.club/WGS" group-title="Canais | Filmes e Séries",AMC [FHD]
+http://ntvbr.cc:80/321671/819955/294.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [FHD][H265]" tvg-logo="http://lfpy.club/WHJ" group-title="Canais | Filmes e Séries",AMC [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30228.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [HD]" tvg-logo="http://lfpy.club/APW" group-title="Canais | Filmes e Séries",AMC [HD]
+http://ntvbr.cc:80/321671/819955/300.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [SD]" tvg-logo="http://lfpy.club/AQS" group-title="Canais | Filmes e Séries",AMC [SD]
+http://ntvbr.cc:80/321671/819955/325.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://lfpy.club/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
+http://ntvbr.cc:80/321671/819955/164.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://lfpy.club/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30248.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://lfpy.club/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://ntvbr.cc:80/321671/819955/179.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://lfpy.club/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://ntvbr.cc:80/321671/819955/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 01 [HD]
+http://ntvbr.cc:80/321671/819955/300146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 02 [HD]
+http://ntvbr.cc:80/321671/819955/300147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 03 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 03 [HD]
+http://ntvbr.cc:80/321671/819955/300148.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD]" tvg-logo="http://lfpy.club/AKZ" group-title="Canais | Documentários",ARTE 1 [FHD]
+http://ntvbr.cc:80/321671/819955/165.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD][H265]" tvg-logo="http://lfpy.club/WHP" group-title="Canais | Documentários",ARTE 1 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30249.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [HD]" tvg-logo="http://lfpy.club/ALN" group-title="Canais | Documentários",ARTE 1 [HD]
+http://ntvbr.cc:80/321671/819955/180.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [SD]" tvg-logo="http://lfpy.club/AMB" group-title="Canais | Documentários",ARTE 1 [SD]
+http://ntvbr.cc:80/321671/819955/195.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD]" tvg-logo="http://lfpy.club/APR" group-title="Canais | Filmes e Séries",AXN [FHD]
+http://ntvbr.cc:80/321671/819955/295.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD] LEG" tvg-logo="http://lfpy.club/WID" group-title="Canais | Legendados",AXN [FHD] LEG
+http://ntvbr.cc:80/321671/819955/122939.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD][H265]" tvg-logo="http://lfpy.club/WGX" group-title="Canais | Filmes e Séries",AXN [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30206.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://lfpy.club/APX" group-title="Canais | Filmes e Séries",AXN [HD]
+http://ntvbr.cc:80/321671/819955/301.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD] LEG" tvg-logo="http://lfpy.club/WIB" group-title="Canais | Legendados",AXN [HD] LEG
+http://ntvbr.cc:80/321671/819955/122933.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://lfpy.club/AQT" group-title="Canais | Filmes e Séries",AXN [SD]
+http://ntvbr.cc:80/321671/819955/326.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD] LEG" tvg-logo="http://lfpy.club/WIC" group-title="Canais | Legendados",AXN [SD] LEG
+http://ntvbr.cc:80/321671/819955/122934.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.br" tvg-name="BAND CAMPINAS [HD]" tvg-logo="http://lfpy.club/VVJ" group-title="Canais | Abertos",BAND CAMPINAS [HD]
+http://ntvbr.cc:80/321671/819955/113587.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [HD]" tvg-logo="http://lfpy.club/JYZ4" group-title="Canais | Abertos",BAND CEARA [HD]
+http://ntvbr.cc:80/321671/819955/186203.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD]" tvg-logo="http://lfpy.club/AWW" group-title="Canais | Notícias",BAND NEWS [FHD]
+http://ntvbr.cc:80/321671/819955/510.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD][H265]" tvg-logo="http://lfpy.club/VNA" group-title="Canais | Notícias",BAND NEWS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30195.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [HD]" tvg-logo="http://lfpy.club/AXA" group-title="Canais | Notícias",BAND NEWS [HD]
+http://ntvbr.cc:80/321671/819955/514.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [SD]" tvg-logo="http://lfpy.club/VMV" group-title="Canais | Notícias",BAND NEWS [SD]
+http://ntvbr.cc:80/321671/819955/520.ts
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://lfpy.club/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
+http://ntvbr.cc:80/321671/819955/122446.ts
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [HD]" tvg-logo="http://lfpy.club/VVM" group-title="Canais | Abertos",BAND RJ [HD]
+http://ntvbr.cc:80/321671/819955/122447.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS [FHD]" tvg-logo="http://lfpy.club/MXP6" group-title="Canais | Abertos",Band RS [FHD]
+http://ntvbr.cc:80/321671/819955/286928.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS [HD]" tvg-logo="http://lfpy.club/VWQ" group-title="Canais | Abertos",BAND RS [HD]
+http://ntvbr.cc:80/321671/819955/123576.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE [HD]" tvg-logo="http://lfpy.club/VWR" group-title="Canais | Abertos",BAND SERGIPE [HD]
+http://ntvbr.cc:80/321671/819955/123577.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://lfpy.club/VVH" group-title="Canais | Abertos",BAND SP [FHD]
+http://ntvbr.cc:80/321671/819955/113585.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [HD]" tvg-logo="http://lfpy.club/VVG" group-title="Canais | Abertos",BAND SP [HD]
+http://ntvbr.cc:80/321671/819955/113584.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [SD]" tvg-logo="http://lfpy.club/VVF" group-title="Canais | Abertos",BAND SP [SD]
+http://ntvbr.cc:80/321671/819955/113583.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORT [FHD]" tvg-logo="http://lfpy.club/ANX" group-title="Canais | Esportes",BAND SPORT [FHD]
+http://ntvbr.cc:80/321671/819955/247.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://lfpy.club/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30275.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORTS [HD]" tvg-logo="http://lfpy.club/AOG" group-title="Canais | Esportes",BAND SPORTS [HD]
+http://ntvbr.cc:80/321671/819955/256.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [SD]" tvg-logo="http://lfpy.club/AOO" group-title="Canais | Esportes",BAND SPORTS [SD]
+http://ntvbr.cc:80/321671/819955/265.ts
+#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [FHD][H265]" tvg-logo="http://lfpy.club/UAB" group-title="Canais | Abertos",BAND TV GOIANIA [FHD][H265]
+http://ntvbr.cc:80/321671/819955/123575.ts
+#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [HD]" tvg-logo="http://lfpy.club/UAA" group-title="Canais | Abertos",BAND TV GOIANIA [HD]
+http://ntvbr.cc:80/321671/819955/123574.ts
+#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [FHD]" tvg-logo="http://lfpy.club/UAH" group-title="Canais | Abertos",BAND TV MINAS [FHD]
+http://ntvbr.cc:80/321671/819955/123583.ts
+#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [HD]" tvg-logo="http://lfpy.club/UAG" group-title="Canais | Abertos",BAND TV MINAS [HD]
+http://ntvbr.cc:80/321671/819955/123582.ts
+#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV PR TAROBA [HD]" tvg-logo="http://lfpy.club/UAC" group-title="Canais | Abertos",BAND TV PR TAROBA [HD]
+http://ntvbr.cc:80/321671/819955/123578.ts
+#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [FHD]" tvg-logo="http://lfpy.club/UAF" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [FHD]
+http://ntvbr.cc:80/321671/819955/123581.ts
+#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [HD]" tvg-logo="http://lfpy.club/UAD" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [HD]
+http://ntvbr.cc:80/321671/819955/123579.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD][H265]" tvg-logo="http://lfpy.club/VVK" group-title="Canais | Abertos",BAND [FHD][H265]
+http://ntvbr.cc:80/321671/819955/113588.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [FHD]" tvg-logo="http://lfpy.club/ONP" group-title="Canais | Art & Music",BIS [FHD]
+http://ntvbr.cc:80/321671/819955/5.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [FHD][H265]" tvg-logo="http://lfpy.club/ONR" group-title="Canais | Art & Music",BIS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30177.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [HD]" tvg-logo="http://lfpy.club/AFQ" group-title="Canais | Art & Music",BIS [HD]
+http://ntvbr.cc:80/321671/819955/18.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [SD]" tvg-logo="http://lfpy.club/AFL" group-title="Canais | Art & Music",BIS [SD]
+http://ntvbr.cc:80/321671/819955/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="BJJ STAR [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",BJJ STAR [HD]
+http://ntvbr.cc:80/321671/819955/127310.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C [FHD]" tvg-logo="http://lfpy.club/DPL6" group-title="Canais | Notícias",BM&C [FHD]
+http://ntvbr.cc:80/321671/819955/234097.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C [FHD][H265]" tvg-logo="http://lfpy.club/DPL2" group-title="Canais | Notícias",BM&C [FHD][H265]
+http://ntvbr.cc:80/321671/819955/234093.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C [FHD][HDR]" tvg-logo="http://lfpy.club/DPL3" group-title="Canais | Notícias",BM&C [FHD][HDR]
+http://ntvbr.cc:80/321671/819955/234094.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C [HD]" tvg-logo="http://lfpy.club/DPL5" group-title="Canais | Notícias",BM&C [HD]
+http://ntvbr.cc:80/321671/819955/234096.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C [SD]" tvg-logo="http://lfpy.club/DPL4" group-title="Canais | Notícias",BM&C [SD]
+http://ntvbr.cc:80/321671/819955/234095.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Animal Planet 4K" tvg-logo="http://lfpy.club/NNQ8" group-title="Canais | 4K",BR: Animal Planet 4K
+http://ntvbr.cc:80/321671/819955/300457.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN 4K" tvg-logo="http://lfpy.club/NNQ9" group-title="Canais | 4K",BR: AXN 4K
+http://ntvbr.cc:80/321671/819955/300458.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band SP 4K" tvg-logo="http://lfpy.club/NNR0" group-title="Canais | 4K",BR: Band SP 4K
+http://ntvbr.cc:80/321671/819955/300459.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network 4K" tvg-logo="http://lfpy.club/NNR1" group-title="Canais | 4K",BR: Cartoon Network 4K
+http://ntvbr.cc:80/321671/819955/300460.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil 4K" tvg-logo="http://lfpy.club/NNR2" group-title="Canais | 4K",BR: CNN Brasil 4K
+http://ntvbr.cc:80/321671/819955/300461.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate 4K" tvg-logo="http://lfpy.club/NNR3" group-title="Canais | 4K",BR: Combate 4K
+http://ntvbr.cc:80/321671/819955/300462.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central 4K" tvg-logo="http://lfpy.club/NNR4" group-title="Canais | 4K",BR: Comedy Central 4K
+http://ntvbr.cc:80/321671/819955/300463.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel 4K" tvg-logo="http://lfpy.club/NNR5" group-title="Canais | 4K",BR: Discovery Channel 4K
+http://ntvbr.cc:80/321671/819955/300464.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H 4K" tvg-logo="http://lfpy.club/NNR6" group-title="Canais | 4K",BR: Discovery H&H 4K
+http://ntvbr.cc:80/321671/819955/300465.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo 4K" tvg-logo="http://lfpy.club/NNR7" group-title="Canais | 4K",BR: Discovery Turbo 4K
+http://ntvbr.cc:80/321671/819955/300466.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4 4K" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Canais | 4K",BR: ESPN 4 4K
+http://ntvbr.cc:80/321671/819955/300467.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4K" tvg-logo="http://lfpy.club/NNR8" group-title="Canais | 4K",BR: ESPN 4K
+http://ntvbr.cc:80/321671/819955/300468.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News 4K" tvg-logo="http://lfpy.club/NNR9" group-title="Canais | 4K",BR: Globo News 4K
+http://ntvbr.cc:80/321671/819955/300469.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP 4K" tvg-logo="http://lfpy.club/NNS0" group-title="Canais | 4K",BR: Globo SP 4K
+http://ntvbr.cc:80/321671/819955/300470.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT 4K" tvg-logo="http://lfpy.club/NNS1" group-title="Canais | 4K",BR: GNT 4K
+http://ntvbr.cc:80/321671/819955/300471.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 4K" tvg-logo="http://lfpy.club/NNS2" group-title="Canais | 4K",BR: HBO 4K
+http://ntvbr.cc:80/321671/819955/300472.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jovem Pan News 4K" tvg-logo="http://lfpy.club/NNS3" group-title="Canais | 4K",BR: Jovem Pan News 4K
+http://ntvbr.cc:80/321671/819955/300473.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Love Nature 4K" tvg-logo="http://lfpy.club/NNS4" group-title="Canais | 4K",BR: Love Nature 4K
+http://ntvbr.cc:80/321671/819955/300474.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix 4K" tvg-logo="http://lfpy.club/NNS5" group-title="Canais | 4K",BR: Megapix 4K
+http://ntvbr.cc:80/321671/819955/300475.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow 4K" tvg-logo="http://lfpy.club/NNS6" group-title="Canais | 4K",BR: Multishow 4K
+http://ntvbr.cc:80/321671/819955/300476.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes 4K" tvg-logo="http://lfpy.club/NNS7" group-title="Canais | 4K",BR: Premiere Clubes 4K
+http://ntvbr.cc:80/321671/819955/300477.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV! 4K" tvg-logo="http://lfpy.club/NNS8" group-title="Canais | 4K",BR: Rede TV! 4K
+http://ntvbr.cc:80/321671/819955/300478.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP 4K" tvg-logo="http://lfpy.club/NNS9" group-title="Canais | 4K",BR: SBT SP 4K
+http://ntvbr.cc:80/321671/819955/300479.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 4K" tvg-logo="http://lfpy.club/NNT0" group-title="Canais | 4K",BR: SporTV 4K
+http://ntvbr.cc:80/321671/819955/300480.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Action 4K" tvg-logo="http://lfpy.club/NNT1" group-title="Canais | 4K",BR: TC Action 4K
+http://ntvbr.cc:80/321671/819955/300481.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Pipoca 4K" tvg-logo="http://lfpy.club/NNT2" group-title="Canais | 4K",BR: TC Pipoca 4K
+http://ntvbr.cc:80/321671/819955/300482.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Premium 4K" tvg-logo="http://lfpy.club/NNT3" group-title="Canais | 4K",BR: TC Premium 4K
+http://ntvbr.cc:80/321671/819955/300483.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT 4K" tvg-logo="http://lfpy.club/NNT4" group-title="Canais | 4K",BR: TNT 4K
+http://ntvbr.cc:80/321671/819955/300484.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series 4K" tvg-logo="http://lfpy.club/NNT5" group-title="Canais | 4K",BR: TNT Series 4K
+http://ntvbr.cc:80/321671/819955/300485.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal 4K" tvg-logo="http://lfpy.club/NNT6" group-title="Canais | 4K",BR: Universal 4K
+http://ntvbr.cc:80/321671/819955/300486.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva 4K" tvg-logo="http://lfpy.club/NNT7" group-title="Canais | 4K",BR: Viva 4K
+http://ntvbr.cc:80/321671/819955/300487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 1 [SD]" tvg-logo="" group-title="Canais | Brasileirao",Brasileirao Serie C 1 [SD]
+http://ntvbr.cc:80/321671/819955/246845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 2 [HD]" tvg-logo="" group-title="Canais | Brasileirao",Brasileirao Serie C 2 [HD]
+http://ntvbr.cc:80/321671/819955/246843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 2 [SD]" tvg-logo="" group-title="Canais | Brasileirao",Brasileirao Serie C 2 [SD]
+http://ntvbr.cc:80/321671/819955/246846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 3 [HD]" tvg-logo="" group-title="Canais | Brasileirao",Brasileirao Serie C 3 [HD]
+http://ntvbr.cc:80/321671/819955/246844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 3 [SD]" tvg-logo="" group-title="Canais | Brasileirao",Brasileirao Serie C 3 [SD]
+http://ntvbr.cc:80/321671/819955/246847.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRAO SERIE D [SD]" tvg-logo="" group-title="Canais | Brasileirao",BRASILEIRAO SERIE D [SD]
+http://ntvbr.cc:80/321671/819955/246848.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRAO SERIE D [SD]" tvg-logo="" group-title="Canais | Brasileirao",BRASILEIRAO SERIE D [SD]
+http://ntvbr.cc:80/321671/819955/246849.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [FHD]" tvg-logo="http://lfpy.club/APU" group-title="Canais | Filmes e Séries",CANAL BRASIL [FHD]
+http://ntvbr.cc:80/321671/819955/298.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [FHD][H265]" tvg-logo="http://lfpy.club/WHL" group-title="Canais | Filmes e Séries",CANAL BRASIL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30233.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [HD]" tvg-logo="http://lfpy.club/AQP" group-title="Canais | Filmes e Séries",CANAL BRASIL [HD]
+http://ntvbr.cc:80/321671/819955/322.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [SD]" tvg-logo="http://lfpy.club/ARP" group-title="Canais | Filmes e Séries",CANAL BRASIL [SD]
+http://ntvbr.cc:80/321671/819955/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [HD]" tvg-logo="http://lfpy.club/JZA3" group-title="Canais | Abertos",CANAL DO BOI [HD]
+http://ntvbr.cc:80/321671/819955/199615.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI [SD]" tvg-logo="http://lfpy.club/AIA" group-title="Canais | Abertos",CANAL DO BOI [SD]
+http://ntvbr.cc:80/321671/819955/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 01 [HD]" tvg-logo="http://lfpy.club/VME" group-title="Canais | Jogos & Eventos",Canal Do Volei 01 [HD]
+http://ntvbr.cc:80/321671/819955/116353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 02 [HD]" tvg-logo="http://lfpy.club/VMD" group-title="Canais | Jogos & Eventos",Canal Do Volei 02 [HD]
+http://ntvbr.cc:80/321671/819955/116352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 03 [HD]" tvg-logo="http://lfpy.club/VMC" group-title="Canais | Jogos & Eventos",Canal Do Volei 03 [HD]
+http://ntvbr.cc:80/321671/819955/116351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [FHD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat 2 [FHD]
+http://ntvbr.cc:80/321671/819955/246838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [HD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat 2 [HD]
+http://ntvbr.cc:80/321671/819955/246837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [SD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat 2 [SD]
+http://ntvbr.cc:80/321671/819955/246836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat [FHD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat [FHD]
+http://ntvbr.cc:80/321671/819955/246835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat [HD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat [HD]
+http://ntvbr.cc:80/321671/819955/246834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat [SD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat [SD]
+http://ntvbr.cc:80/321671/819955/246833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD]" tvg-logo="http://lfpy.club/DYS9" group-title="Canais | Abertos",Canal Rural [FHD]
+http://ntvbr.cc:80/321671/819955/234102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD][H265]" tvg-logo="http://lfpy.club/DYS6" group-title="Canais | Abertos",Canal Rural [FHD][H265]
+http://ntvbr.cc:80/321671/819955/234099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD][HDR]" tvg-logo="http://lfpy.club/DYS5" group-title="Canais | Abertos",Canal Rural [FHD][HDR]
+http://ntvbr.cc:80/321671/819955/234098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [HD]" tvg-logo="http://lfpy.club/DYS7" group-title="Canais | Abertos",Canal Rural [HD]
+http://ntvbr.cc:80/321671/819955/234100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [SD]" tvg-logo="http://lfpy.club/DYS8" group-title="Canais | Abertos",Canal Rural [SD]
+http://ntvbr.cc:80/321671/819955/234101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova [FHD]" tvg-logo="http://lfpy.club/NRK4" group-title="Canais | Religiosos",Canção Nova [FHD]
+http://ntvbr.cc:80/321671/819955/295990.ts
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Canção Nova [HD]" tvg-logo="http://lfpy.club/VPV" group-title="Canais | Religiosos",Canção Nova [HD]
+http://ntvbr.cc:80/321671/819955/33379.ts
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Canção Nova [SD]" tvg-logo="http://lfpy.club/AYG" group-title="Canais | Religiosos",Canção Nova [SD]
+http://ntvbr.cc:80/321671/819955/552.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="http://lfpy.club/AJP" group-title="Canais | Infantis",CARTOON NETWORK [FHD]
+http://ntvbr.cc:80/321671/819955/126.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD][H265]" tvg-logo="http://lfpy.club/WHT" group-title="Canais | Infantis",CARTOON NETWORK [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30268.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [HD]" tvg-logo="http://lfpy.club/AKC" group-title="Canais | Infantis",CARTOON NETWORK [HD]
+http://ntvbr.cc:80/321671/819955/139.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://lfpy.club/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
+http://ntvbr.cc:80/321671/819955/151.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO [FHD]" tvg-logo="http://lfpy.club/AJO" group-title="Canais | Infantis",CARTOONITO [FHD]
+http://ntvbr.cc:80/321671/819955/125.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO [FHD][H265]" tvg-logo="http://lfpy.club/WJB" group-title="Canais | Infantis",CARTOONITO [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO [HD]" tvg-logo="http://lfpy.club/AKB" group-title="Canais | Infantis",CARTOONITO [HD]
+http://ntvbr.cc:80/321671/819955/138.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO [SD]" tvg-logo="http://lfpy.club/AKL" group-title="Canais | Infantis",CARTOONITO [SD]
+http://ntvbr.cc:80/321671/819955/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze 2 TV [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Caze 2 TV [HD]
+http://ntvbr.cc:80/321671/819955/300315.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 1 [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Caze TV 1 [HD]
+http://ntvbr.cc:80/321671/819955/300314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 3 [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Caze TV 3 [HD]
+http://ntvbr.cc:80/321671/819955/300316.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 4 [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Caze TV 4 [HD]
+http://ntvbr.cc:80/321671/819955/300317.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [HD]" tvg-logo="http://lfpy.club/JYX8" group-title="Canais | Jogos & Eventos",CAZE TV [HD]
+http://ntvbr.cc:80/321671/819955/134082.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [SD]" tvg-logo="" group-title="Canais | Jogos & Eventos",CAZE TV [SD]
+http://ntvbr.cc:80/321671/819955/286276.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 [FHD]" tvg-logo="http://lfpy.club/HJJ6" group-title="Canais | Filmes Selecionados",CINE SKY 01 [FHD]
+http://ntvbr.cc:80/321671/819955/50858.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 [HD]" tvg-logo="http://lfpy.club/HJI7" group-title="Canais | Filmes Selecionados",CINE SKY 01 [HD]
+http://ntvbr.cc:80/321671/819955/50838.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 [FHD]" tvg-logo="http://lfpy.club/HJJ9" group-title="Canais | Filmes Selecionados",CINE SKY 06 [FHD]
+http://ntvbr.cc:80/321671/819955/50862.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 [HD]" tvg-logo="http://lfpy.club/HJI8" group-title="Canais | Filmes Selecionados",CINE SKY 06 [HD]
+http://ntvbr.cc:80/321671/819955/50843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 [HD]" tvg-logo="http://lfpy.club/HJI9" group-title="Canais | Filmes Selecionados",CINE SKY 14 [HD]
+http://ntvbr.cc:80/321671/819955/50851.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 [HD]" tvg-logo="http://lfpy.club/HJJ0" group-title="Canais | Filmes Selecionados",CINE SKY 15 [HD]
+http://ntvbr.cc:80/321671/819955/50852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 16 [HD]" tvg-logo="http://lfpy.club/HJJ1" group-title="Canais | Filmes Selecionados",CINE SKY 16 [HD]
+http://ntvbr.cc:80/321671/819955/50853.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 17 [HD]" tvg-logo="http://lfpy.club/HJJ2" group-title="Canais | Filmes Selecionados",CINE SKY 17 [HD]
+http://ntvbr.cc:80/321671/819955/50854.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 18 [HD]" tvg-logo="http://lfpy.club/HJJ3" group-title="Canais | Filmes Selecionados",CINE SKY 18 [HD]
+http://ntvbr.cc:80/321671/819955/50855.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 19 [HD]" tvg-logo="http://lfpy.club/HJJ4" group-title="Canais | Filmes Selecionados",CINE SKY 19 [HD]
+http://ntvbr.cc:80/321671/819955/50856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 20 [FHD]" tvg-logo="http://lfpy.club/HJJ7" group-title="Canais | Filmes Selecionados",CINE SKY 20 [FHD]
+http://ntvbr.cc:80/321671/819955/50859.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 20 [HD]" tvg-logo="http://lfpy.club/HJJ5" group-title="Canais | Filmes Selecionados",CINE SKY 20 [HD]
+http://ntvbr.cc:80/321671/819955/50857.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 21 [FHD]" tvg-logo="http://lfpy.club/HJJ8" group-title="Canais | Filmes Selecionados",CINE SKY 21 [FHD]
+http://ntvbr.cc:80/321671/819955/50860.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [FHD]" tvg-logo="http://lfpy.club/AOY" group-title="Canais | Filmes e Séries",CINEMAX [FHD]
+http://ntvbr.cc:80/321671/819955/275.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [FHD][H265]" tvg-logo="http://lfpy.club/WHB" group-title="Canais | Filmes e Séries",CINEMAX [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30215.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [HD]" tvg-logo="http://lfpy.club/APZ" group-title="Canais | Filmes e Séries",CINEMAX [HD]
+http://ntvbr.cc:80/321671/819955/303.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [SD]" tvg-logo="http://lfpy.club/AQV" group-title="Canais | Filmes e Séries",CINEMAX [SD]
+http://ntvbr.cc:80/321671/819955/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil Money [FHD][H265]" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money [FHD][H265]
+http://ntvbr.cc:80/321671/819955/251746.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN Brasil Money [FHD][HDR]" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money [FHD][HDR]
+http://ntvbr.cc:80/321671/819955/251747.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil Money [SD]" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money [SD]
+http://ntvbr.cc:80/321671/819955/251745.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [FHD]" tvg-logo="http://lfpy.club/AWZ" group-title="Canais | Notícias",CNN BRASIL [FHD]
+http://ntvbr.cc:80/321671/819955/513.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [FHD][H265]" tvg-logo="http://lfpy.club/VND" group-title="Canais | Notícias",CNN BRASIL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30198.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [HD]" tvg-logo="http://lfpy.club/AXC" group-title="Canais | Notícias",CNN BRASIL [HD]
+http://ntvbr.cc:80/321671/819955/517.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [SD]" tvg-logo="http://lfpy.club/AXH" group-title="Canais | Notícias",CNN BRASIL [SD]
+http://ntvbr.cc:80/321671/819955/523.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN INTERNACIONAL [HD]" tvg-logo="http://lfpy.club/VNS" group-title="Canais | Notícias",CNN INTERNACIONAL [HD]
+http://ntvbr.cc:80/321671/819955/69087.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="COMBATE [FHD]" tvg-logo="http://lfpy.club/ANZ" group-title="Canais | Esportes",COMBATE [FHD]
+http://ntvbr.cc:80/321671/819955/249.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD][H265]" tvg-logo="http://lfpy.club/WJZ" group-title="Canais | Esportes",COMBATE [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30276.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="COMBATE [HD]" tvg-logo="http://lfpy.club/AOH" group-title="Canais | Esportes",COMBATE [HD]
+http://ntvbr.cc:80/321671/819955/257.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [SD]" tvg-logo="http://lfpy.club/AOP" group-title="Canais | Esportes",COMBATE [SD]
+http://ntvbr.cc:80/321671/819955/266.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [FHD]" tvg-logo="http://lfpy.club/AIO" group-title="Canais | Variedades",COMEDY CENTRAL [FHD]
+http://ntvbr.cc:80/321671/819955/97.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [FHD][H265]" tvg-logo="http://lfpy.club/VRA" group-title="Canais | Variedades",COMEDY CENTRAL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30191.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [HD]" tvg-logo="http://lfpy.club/AIV" group-title="Canais | Variedades",COMEDY CENTRAL [HD]
+http://ntvbr.cc:80/321671/819955/106.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [SD]" tvg-logo="http://lfpy.club/AJE" group-title="Canais | Variedades",COMEDY CENTRAL [SD]
+http://ntvbr.cc:80/321671/819955/115.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [FHD]" tvg-logo="http://lfpy.club/AIP" group-title="Canais | Variedades",CURTA! [FHD]
+http://ntvbr.cc:80/321671/819955/98.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [FHD][H265]" tvg-logo="http://lfpy.club/VRB" group-title="Canais | Variedades",CURTA! [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30192.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [HD]" tvg-logo="http://lfpy.club/AIW" group-title="Canais | Variedades",CURTA! [HD]
+http://ntvbr.cc:80/321671/819955/107.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [SD]" tvg-logo="http://lfpy.club/AJF" group-title="Canais | Variedades",CURTA! [SD]
+http://ntvbr.cc:80/321671/819955/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [FHD] [ALTER 2]" tvg-logo="http://lfpy.club/XQU" group-title="Canais | DAZN",DAZN 01 [FHD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132327.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [HD] [ALTER 2]" tvg-logo="http://lfpy.club/XQT" group-title="Canais | DAZN",DAZN 01 [HD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132326.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [SD] [ALTER 2]" tvg-logo="http://lfpy.club/XQS" group-title="Canais | DAZN",DAZN 01 [SD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132325.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [FHD] [ALTER 2]" tvg-logo="http://lfpy.club/XQR" group-title="Canais | DAZN",DAZN 02 [FHD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132324.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [HD] [ALTER 2]" tvg-logo="http://lfpy.club/XQQ" group-title="Canais | DAZN",DAZN 02 [HD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132323.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [SD] [ALTER 2]" tvg-logo="http://lfpy.club/XQP" group-title="Canais | DAZN",DAZN 02 [SD] [ALTER 2]
+http://ntvbr.cc:80/321671/819955/132322.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [HD]" tvg-logo="http://lfpy.club/XQJ" group-title="Canais | DAZN",DAZN 1 [HD]
+http://ntvbr.cc:80/321671/819955/132316.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [HD] [ALTER]" tvg-logo="http://lfpy.club/XQV" group-title="Canais | DAZN",DAZN 1 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/132328.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [HD]" tvg-logo="http://lfpy.club/XQK" group-title="Canais | DAZN",DAZN 2 [HD]
+http://ntvbr.cc:80/321671/819955/132317.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [HD] [ALTER]" tvg-logo="http://lfpy.club/XQW" group-title="Canais | DAZN",DAZN 2 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/132329.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 [HD]" tvg-logo="http://lfpy.club/XQL" group-title="Canais | DAZN",DAZN 3 [HD]
+http://ntvbr.cc:80/321671/819955/132318.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 [HD] [ALTER]" tvg-logo="http://lfpy.club/XQX" group-title="Canais | DAZN",DAZN 3 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/132330.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 [HD]" tvg-logo="http://lfpy.club/XQM" group-title="Canais | DAZN",DAZN 4 [HD]
+http://ntvbr.cc:80/321671/819955/132319.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 [HD] [ALTER]" tvg-logo="http://lfpy.club/XQY" group-title="Canais | DAZN",DAZN 4 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/132331.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 [HD]" tvg-logo="http://lfpy.club/XQN" group-title="Canais | DAZN",DAZN 5 [HD]
+http://ntvbr.cc:80/321671/819955/132320.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 [HD]" tvg-logo="http://lfpy.club/XQO" group-title="Canais | DAZN",DAZN 6 [HD]
+http://ntvbr.cc:80/321671/819955/132321.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [FHD]" tvg-logo="http://lfpy.club/ALA" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD]
+http://ntvbr.cc:80/321671/819955/166.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://lfpy.club/WJX" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30260.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [HD]" tvg-logo="http://lfpy.club/ALO" group-title="Canais | Documentários",DISCOVERY CHANNEL [HD]
+http://ntvbr.cc:80/321671/819955/181.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [SD]" tvg-logo="http://lfpy.club/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [SD]
+http://ntvbr.cc:80/321671/819955/196.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [FHD]" tvg-logo="http://lfpy.club/ALC" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [FHD]
+http://ntvbr.cc:80/321671/819955/168.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [HD]" tvg-logo="http://lfpy.club/VYU" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
+http://ntvbr.cc:80/321671/819955/183.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [SD]" tvg-logo="http://lfpy.club/AMD" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [SD]
+http://ntvbr.cc:80/321671/819955/198.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME&HEALTH [FHD][H265]" tvg-logo="http://lfpy.club/VYV" group-title="Canais | Documentários",DISCOVERY HOME&HEALTH [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30254.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [FHD]" tvg-logo="http://lfpy.club/AJQ" group-title="Canais | Infantis",DISCOVERY KIDS [FHD]
+http://ntvbr.cc:80/321671/819955/127.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="Discovery Kids [H265]" tvg-logo="http://lfpy.club/WHU" group-title="Canais | Infantis",Discovery Kids [H265]
+http://ntvbr.cc:80/321671/819955/30269.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="http://lfpy.club/AKD" group-title="Canais | Infantis",DISCOVERY KIDS [HD]
+http://ntvbr.cc:80/321671/819955/140.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="http://lfpy.club/AKN" group-title="Canais | Infantis",DISCOVERY KIDS [SD]
+http://ntvbr.cc:80/321671/819955/152.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD]" tvg-logo="http://lfpy.club/ALD" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD]
+http://ntvbr.cc:80/321671/819955/169.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD][H265]" tvg-logo="http://lfpy.club/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30255.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [HD]" tvg-logo="http://lfpy.club/ALQ" group-title="Canais | Documentários",DISCOVERY SCIENCE [HD]
+http://ntvbr.cc:80/321671/819955/184.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [SD]" tvg-logo="http://lfpy.club/AME" group-title="Canais | Documentários",DISCOVERY SCIENCE [SD]
+http://ntvbr.cc:80/321671/819955/199.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [FHD]" tvg-logo="http://lfpy.club/ALE" group-title="Canais | Documentários",DISCOVERY THEATER [FHD]
+http://ntvbr.cc:80/321671/819955/170.ts
+#EXTINF:-1 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER [FHD][H265]" tvg-logo="http://lfpy.club/WHR" group-title="Canais | Documentários",DISCOVERY THEATER [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30256.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [HD]" tvg-logo="http://lfpy.club/ALR" group-title="Canais | Documentários",DISCOVERY THEATER [HD]
+http://ntvbr.cc:80/321671/819955/185.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="http://lfpy.club/AMF" group-title="Canais | Documentários",DISCOVERY THEATER [SD]
+http://ntvbr.cc:80/321671/819955/200.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="http://lfpy.club/ALF" group-title="Canais | Documentários",DISCOVERY TURBO [FHD]
+http://ntvbr.cc:80/321671/819955/171.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD][H265]" tvg-logo="http://lfpy.club/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30257.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [HD]" tvg-logo="http://lfpy.club/ALS" group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://ntvbr.cc:80/321671/819955/186.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [SD]" tvg-logo="http://lfpy.club/AMG" group-title="Canais | Documentários",DISCOVERY TURBO [SD]
+http://ntvbr.cc:80/321671/819955/201.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD]" tvg-logo="http://lfpy.club/ALG" group-title="Canais | Documentários",DISCOVERY WORLD [FHD]
+http://ntvbr.cc:80/321671/819955/172.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD][H265]" tvg-logo="http://lfpy.club/VYW" group-title="Canais | Documentários",DISCOVERY WORLD [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30258.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [HD]" tvg-logo="http://lfpy.club/ALT" group-title="Canais | Documentários",DISCOVERY WORLD [HD]
+http://ntvbr.cc:80/321671/819955/187.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [SD]" tvg-logo="http://lfpy.club/AMH" group-title="Canais | Documentários",DISCOVERY WORLD [SD]
+http://ntvbr.cc:80/321671/819955/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 1 [FHD]
+http://ntvbr.cc:80/321671/819955/286679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [FHD] [ALTER]" tvg-logo="http://lfpy.club/DYT5" group-title="Canais | Disney Plus",Disney Plus 1 [FHD] [ALTER]
+http://ntvbr.cc:80/321671/819955/241003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 1 [HD]
+http://ntvbr.cc:80/321671/819955/286683.ts
+#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] [ALTER]" tvg-logo="http://lfpy.club/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/236857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [FHD]
+http://ntvbr.cc:80/321671/819955/286680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [FHD] [ALTER]" tvg-logo="http://lfpy.club/DYT4" group-title="Canais | Disney Plus",Disney Plus 2 [FHD] [ALTER]
+http://ntvbr.cc:80/321671/819955/241002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 2 [HD]
+http://ntvbr.cc:80/321671/819955/286684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 3 [FHD]
+http://ntvbr.cc:80/321671/819955/286681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 3 [HD]
+http://ntvbr.cc:80/321671/819955/286685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [FHD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 4 [FHD]
+http://ntvbr.cc:80/321671/819955/286682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [HD]" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus 4 [HD]
+http://ntvbr.cc:80/321671/819955/286686.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01 [FHD]" tvg-logo="http://lfpy.club/NOJ4" group-title="Canais | Disney Plus",DISNEY+ 01 [FHD]
+http://ntvbr.cc:80/321671/819955/300940.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02 [FHD]" tvg-logo="http://lfpy.club/NOJ5" group-title="Canais | Disney Plus",DISNEY+ 02 [FHD]
+http://ntvbr.cc:80/321671/819955/300941.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03 [FHD]" tvg-logo="http://lfpy.club/NOJ6" group-title="Canais | Disney Plus",DISNEY+ 03 [FHD]
+http://ntvbr.cc:80/321671/819955/300942.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 04 [FHD]" tvg-logo="http://lfpy.club/NOJ7" group-title="Canais | Disney Plus",DISNEY+ 04 [FHD]
+http://ntvbr.cc:80/321671/819955/300943.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 05 [FHD]" tvg-logo="http://lfpy.club/NOJ8" group-title="Canais | Disney Plus",DISNEY+ 05 [FHD]
+http://ntvbr.cc:80/321671/819955/300944.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 [HD]" tvg-logo="http://lfpy.club/NOJ9" group-title="Canais | Disney Plus",DISNEY+ 1 [HD]
+http://ntvbr.cc:80/321671/819955/300945.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 [HD]" tvg-logo="http://lfpy.club/NOK0" group-title="Canais | Disney Plus",DISNEY+ 2 [HD]
+http://ntvbr.cc:80/321671/819955/300946.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 [HD]" tvg-logo="http://lfpy.club/NOK1" group-title="Canais | Disney Plus",DISNEY+ 3 [HD]
+http://ntvbr.cc:80/321671/819955/300947.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 [HD]" tvg-logo="http://lfpy.club/NOK2" group-title="Canais | Disney Plus",DISNEY+ 4 [HD]
+http://ntvbr.cc:80/321671/819955/300948.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 [HD]" tvg-logo="http://lfpy.club/NOK3" group-title="Canais | Disney Plus",DISNEY+ 5 [HD]
+http://ntvbr.cc:80/321671/819955/300949.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 [HD]" tvg-logo="http://lfpy.club/NOK4" group-title="Canais | Disney Plus",DISNEY+ 6 [HD]
+http://ntvbr.cc:80/321671/819955/300950.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 [HD]" tvg-logo="http://lfpy.club/NOK5" group-title="Canais | Disney Plus",DISNEY+ 7 [HD]
+http://ntvbr.cc:80/321671/819955/300951.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 8 [HD]" tvg-logo="http://lfpy.club/NOK6" group-title="Canais | Disney Plus",DISNEY+ 8 [HD]
+http://ntvbr.cc:80/321671/819955/300952.ts
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD]" tvg-logo="http://lfpy.club/VRD" group-title="Canais | Variedades",DOG TV [FHD]
+http://ntvbr.cc:80/321671/819955/32426.ts
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [HD]" tvg-logo="http://lfpy.club/VRC" group-title="Canais | Variedades",DOG TV [HD]
+http://ntvbr.cc:80/321671/819955/32425.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="http://lfpy.club/AIQ" group-title="Canais | Variedades",E! [FHD]
+http://ntvbr.cc:80/321671/819955/99.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="http://lfpy.club/VQZ" group-title="Canais | Variedades",E! [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30186.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="http://lfpy.club/AIX" group-title="Canais | Variedades",E! [HD]
+http://ntvbr.cc:80/321671/819955/108.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="http://lfpy.club/AJG" group-title="Canais | Variedades",E! [SD]
+http://ntvbr.cc:80/321671/819955/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 [ALTER] [FHD]" tvg-logo="http://lfpy.club/DPK0" group-title="Canais | Eleven Sports",ELEVEN SPORTS 1 [ALTER] [FHD]
+http://ntvbr.cc:80/321671/819955/234063.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 [HD]" tvg-logo="http://lfpy.club/DPK6" group-title="Canais | Eleven Sports",ELEVEN SPORTS 1 [HD]
+http://ntvbr.cc:80/321671/819955/234087.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 [ALTER] [FHD]" tvg-logo="http://lfpy.club/DPK1" group-title="Canais | Eleven Sports",ELEVEN SPORTS 2 [ALTER] [FHD]
+http://ntvbr.cc:80/321671/819955/234064.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 [HD]" tvg-logo="http://lfpy.club/DPK7" group-title="Canais | Eleven Sports",ELEVEN SPORTS 2 [HD]
+http://ntvbr.cc:80/321671/819955/234088.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 [ALTER] [FHD][H265]" tvg-logo="http://lfpy.club/DPK2" group-title="Canais | Eleven Sports",ELEVEN SPORTS 3 [ALTER] [FHD][H265]
+http://ntvbr.cc:80/321671/819955/234065.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 [HD]" tvg-logo="http://lfpy.club/DPK8" group-title="Canais | Eleven Sports",ELEVEN SPORTS 3 [HD]
+http://ntvbr.cc:80/321671/819955/234089.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 [ALTER] [HD]" tvg-logo="http://lfpy.club/DPK3" group-title="Canais | Eleven Sports",ELEVEN SPORTS 4 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/234066.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 [HD]" tvg-logo="http://lfpy.club/DPK9" group-title="Canais | Eleven Sports",ELEVEN SPORTS 4 [HD]
+http://ntvbr.cc:80/321671/819955/234090.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 [ALTER] [FHD]" tvg-logo="http://lfpy.club/DPK4" group-title="Canais | Eleven Sports",ELEVEN SPORTS 5 [ALTER] [FHD]
+http://ntvbr.cc:80/321671/819955/234067.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 [HD]" tvg-logo="http://lfpy.club/DPL0" group-title="Canais | Eleven Sports",ELEVEN SPORTS 5 [HD]
+http://ntvbr.cc:80/321671/819955/234091.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 [ALTER] [HD]" tvg-logo="http://lfpy.club/DPK5" group-title="Canais | Eleven Sports",ELEVEN SPORTS 6 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/234068.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 [HD]" tvg-logo="http://lfpy.club/DPL1" group-title="Canais | Eleven Sports",ELEVEN SPORTS 6 [HD]
+http://ntvbr.cc:80/321671/819955/234092.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 2 [FHD]" tvg-logo="http://lfpy.club/AOB" group-title="Canais | Esportes",ESPN 2 [FHD]
+http://ntvbr.cc:80/321671/819955/251.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="http://lfpy.club/WKE" group-title="Canais | Esportes",ESPN 2 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30281.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://lfpy.club/AOL" group-title="Canais | Esportes",ESPN 2 [HD]
+http://ntvbr.cc:80/321671/819955/261.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://lfpy.club/AOQ" group-title="Canais | Esportes",ESPN 2 [SD]
+http://ntvbr.cc:80/321671/819955/267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 3 [FHD]" tvg-logo="http://lfpy.club/AOE" group-title="Canais | Esportes",ESPN 3 [FHD]
+http://ntvbr.cc:80/321671/819955/254.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="http://lfpy.club/WKA" group-title="Canais | Esportes",ESPN 3 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30277.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://lfpy.club/AOI" group-title="Canais | Esportes",ESPN 3 [HD]
+http://ntvbr.cc:80/321671/819955/258.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://lfpy.club/AOR" group-title="Canais | Esportes",ESPN 3 [SD]
+http://ntvbr.cc:80/321671/819955/268.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD]" tvg-logo="http://lfpy.club/AOF" group-title="Canais | Esportes",ESPN 4 [FHD]
+http://ntvbr.cc:80/321671/819955/255.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="http://lfpy.club/WKG" group-title="Canais | Esportes",ESPN 4 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30283.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Espn.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="http://lfpy.club/AOM" group-title="Canais | Esportes",ESPN 4 [HD]
+http://ntvbr.cc:80/321671/819955/262.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [SD]" tvg-logo="http://lfpy.club/AOU" group-title="Canais | Esportes",ESPN 4 [SD]
+http://ntvbr.cc:80/321671/819955/271.ts
+#EXTINF:-1 tvg-id="BR - ESPN Extra" tvg-name="ESPN EXTRA [FHD]" tvg-logo="http://lfpy.club/ANY" group-title="Canais | Esportes",ESPN EXTRA [FHD]
+http://ntvbr.cc:80/321671/819955/248.ts
+#EXTINF:-1 tvg-id="BR - ESPN Extra" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="http://lfpy.club/WKB" group-title="Canais | Esportes",ESPN EXTRA [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30278.ts
+#EXTINF:-1 tvg-id="BR - ESPN Extra" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://lfpy.club/AOK" group-title="Canais | Esportes",ESPN EXTRA [HD]
+http://ntvbr.cc:80/321671/819955/260.ts
+#EXTINF:-1 tvg-id="BR - ESPN Extra" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://lfpy.club/AOT" group-title="Canais | Esportes",ESPN EXTRA [SD]
+http://ntvbr.cc:80/321671/819955/270.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD]" tvg-logo="http://lfpy.club/AOA" group-title="Canais | Esportes",ESPN [FHD]
+http://ntvbr.cc:80/321671/819955/250.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD][H265]" tvg-logo="http://lfpy.club/WKD" group-title="Canais | Esportes",ESPN [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30280.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [HD]" tvg-logo="http://lfpy.club/AOJ" group-title="Canais | Esportes",ESPN [HD]
+http://ntvbr.cc:80/321671/819955/259.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [SD]" tvg-logo="http://lfpy.club/AOS" group-title="Canais | Esportes",ESPN [SD]
+http://ntvbr.cc:80/321671/819955/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="" group-title="Canais | Jogos & Eventos",EVENTOS 1
+http://ntvbr.cc:80/321671/819955/297975.ts
+#EXTINF:-1 tvg-id="BR - Fashion TV" tvg-name="FASHIONTV [FHD][H265]" tvg-logo="http://lfpy.club/ONT" group-title="Canais | Art & Music",FASHIONTV [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30184.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 1 [HD]" tvg-logo="http://lfpy.club/AOM8" group-title="Canais | Jogos & Eventos",FCF TV 1 [HD]
+http://ntvbr.cc:80/321671/819955/197713.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 1 [SD]" tvg-logo="http://lfpy.club/AOM7" group-title="Canais | Jogos & Eventos",FCF TV 1 [SD]
+http://ntvbr.cc:80/321671/819955/197712.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 2 [HD]" tvg-logo="http://lfpy.club/AOM6" group-title="Canais | Jogos & Eventos",FCF TV 2 [HD]
+http://ntvbr.cc:80/321671/819955/197711.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 2 [SD]" tvg-logo="http://lfpy.club/AOM5" group-title="Canais | Jogos & Eventos",FCF TV 2 [SD]
+http://ntvbr.cc:80/321671/819955/197710.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 3 [HD]" tvg-logo="http://lfpy.club/AOM4" group-title="Canais | Jogos & Eventos",FCF TV 3 [HD]
+http://ntvbr.cc:80/321671/819955/197709.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCF TV 3 [SD]" tvg-logo="http://lfpy.club/AOM3" group-title="Canais | Jogos & Eventos",FCF TV 3 [SD]
+http://ntvbr.cc:80/321671/819955/197708.ts
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [HD]" tvg-logo="http://lfpy.club/WKJ" group-title="Canais | Filmes e Séries",FILM&ARTS [HD]
+http://ntvbr.cc:80/321671/819955/92668.ts
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [SD]" tvg-logo="http://lfpy.club/ARO" group-title="Canais | Filmes e Séries",FILM&ARTS [SD]
+http://ntvbr.cc:80/321671/819955/348.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://lfpy.club/AIR" group-title="Canais | Variedades",FISH TV [FHD]
+http://ntvbr.cc:80/321671/819955/100.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://lfpy.club/VMW" group-title="Canais | Variedades",FISH TV [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30185.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://lfpy.club/AIY" group-title="Canais | Variedades",FISH TV [HD]
+http://ntvbr.cc:80/321671/819955/109.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://lfpy.club/AJH" group-title="Canais | Variedades",FISH TV [SD]
+http://ntvbr.cc:80/321671/819955/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fla TV [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Fla TV [HD]
+http://ntvbr.cc:80/321671/819955/298119.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [FHD]" tvg-logo="http://lfpy.club/AIS" group-title="Canais | Variedades",FOOD NETWORK [FHD]
+http://ntvbr.cc:80/321671/819955/101.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [FHD][H265]" tvg-logo="http://lfpy.club/VMY" group-title="Canais | Variedades",FOOD NETWORK [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30193.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [HD]" tvg-logo="http://lfpy.club/AIZ" group-title="Canais | Variedades",FOOD NETWORK [HD]
+http://ntvbr.cc:80/321671/819955/110.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [SD]" tvg-logo="http://lfpy.club/AJI" group-title="Canais | Variedades",FOOD NETWORK [SD]
+http://ntvbr.cc:80/321671/819955/119.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [FHD]" tvg-logo="http://lfpy.club/AOC" group-title="Canais | Esportes",FOX SPORTS 2 [FHD]
+http://ntvbr.cc:80/321671/819955/252.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [FHD][H265]" tvg-logo="http://lfpy.club/WKF" group-title="Canais | Esportes",FOX SPORTS 2 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30282.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [HD]" tvg-logo="http://lfpy.club/AON" group-title="Canais | Esportes",FOX SPORTS 2 [HD]
+http://ntvbr.cc:80/321671/819955/263.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [SD]" tvg-logo="http://lfpy.club/AOV" group-title="Canais | Esportes",FOX SPORTS 2 [SD]
+http://ntvbr.cc:80/321671/819955/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Furacão TV [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Furacão TV [HD]
+http://ntvbr.cc:80/321671/819955/298428.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD]" tvg-logo="http://lfpy.club/AGO" group-title="Canais | Abertos",FUTURA [FHD]
+http://ntvbr.cc:80/321671/819955/43.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD][H265]" tvg-logo="http://lfpy.club/VCE" group-title="Canais | Abertos",FUTURA [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30182.ts
+#EXTINF:-1 tvg-id="BR - Futura HD" tvg-name="FUTURA [HD]" tvg-logo="http://lfpy.club/AGV" group-title="Canais | Abertos",FUTURA [HD]
+http://ntvbr.cc:80/321671/819955/51.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [SD]" tvg-logo="http://lfpy.club/AHJ" group-title="Canais | Abertos",FUTURA [SD]
+http://ntvbr.cc:80/321671/819955/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV [FHD]" tvg-logo="http://lfpy.club/VPK" group-title="Canais | Jogos & Eventos",Fórmula 1 TV [FHD]
+http://ntvbr.cc:80/321671/819955/116348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV [HD]" tvg-logo="http://lfpy.club/VPI" group-title="Canais | Jogos & Eventos",Fórmula 1 TV [HD]
+http://ntvbr.cc:80/321671/819955/116346.ts
+#EXTINF:-1 tvg-id="BR - RPC Curitiba" tvg-name="GLOBO CURITIBA [FHD]" tvg-logo="http://lfpy.club/ARS" group-title="Canais | Globo Capital",GLOBO CURITIBA [FHD]
+http://ntvbr.cc:80/321671/819955/353.ts
+#EXTINF:-1 tvg-id="BR - RPC Curitiba" tvg-name="GLOBO CURITIBA [HD]" tvg-logo="http://lfpy.club/ASZ" group-title="Canais | Globo Capital",GLOBO CURITIBA [HD]
+http://ntvbr.cc:80/321671/819955/393.ts
+#EXTINF:-1 tvg-id="BR - RPC Curitiba" tvg-name="GLOBO CURITIBA [SD]" tvg-logo="http://lfpy.club/AUD" group-title="Canais | Globo Capital",GLOBO CURITIBA [SD]
+http://ntvbr.cc:80/321671/819955/428.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV ARARAQUARA [SD]" tvg-logo="http://lfpy.club/AVA" group-title="Canais | Globo Sudeste",GLOBO EPTV ARARAQUARA [SD]
+http://ntvbr.cc:80/321671/819955/460.ts
+#EXTINF:-1 tvg-id="BR - EPTV Ribeirão Preto HD" tvg-name="Globo EPTV Ribeirao Preto [FHD]" tvg-logo="http://lfpy.club/VGL" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD]
+http://ntvbr.cc:80/321671/819955/122760.ts
+#EXTINF:-1 tvg-id="EPTVRIB" tvg-name="Globo EPTV Ribeirao Preto [FHD][H265]" tvg-logo="http://lfpy.club/AKE6" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD][H265]
+http://ntvbr.cc:80/321671/819955/182689.ts
+#EXTINF:-1 tvg-id="BR - EPTV Ribeirão Preto" tvg-name="Globo EPTV Ribeirao Preto [FHD][H265]" tvg-logo="http://lfpy.club/VGM" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD][H265]
+http://ntvbr.cc:80/321671/819955/122761.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="Globo EPTV Ribeirao Preto [SD]" tvg-logo="http://lfpy.club/VCU" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [SD]
+http://ntvbr.cc:80/321671/819955/422.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO ARAXA [FHD]" tvg-logo="http://lfpy.club/VEN" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [FHD]
+http://ntvbr.cc:80/321671/819955/43847.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO ARAXA [HD]" tvg-logo="http://lfpy.club/VEF" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [HD]
+http://ntvbr.cc:80/321671/819955/43835.ts
+#EXTINF:-1 tvg-id="BR - TV Integração Araxá" tvg-name="GLOBO INTEGRACAO ARAXA [SD]" tvg-logo="http://lfpy.club/VGD" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [SD]
+http://ntvbr.cc:80/321671/819955/121124.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL [FHD]" tvg-logo="http://lfpy.club/VEL" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [FHD]
+http://ntvbr.cc:80/321671/819955/43844.ts
+#EXTINF:-1 tvg-id="BR - InterTV Alto Literal HD" tvg-name="GLOBO INTER TV ALTO LITORAL [HD]" tvg-logo="http://lfpy.club/ATM" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [HD]
+http://ntvbr.cc:80/321671/819955/407.ts
+#EXTINF:-1 tvg-id="BR - Inter TV Alto Litoral" tvg-name="GLOBO INTER TV ALTO LITORAL [SD]" tvg-logo="http://lfpy.club/AUO" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [SD]
+http://ntvbr.cc:80/321671/819955/443.ts
+#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES [FHD]" tvg-logo="http://lfpy.club/ASJ" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [FHD]
+http://ntvbr.cc:80/321671/819955/373.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO INTER TV DOS VALES [HD]" tvg-logo="http://lfpy.club/ATN" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [HD]
+http://ntvbr.cc:80/321671/819955/408.ts
+#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES [SD]" tvg-logo="http://lfpy.club/AUP" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [SD]
+http://ntvbr.cc:80/321671/819955/444.ts
+#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="GLOBO INTER TV GRANDE MINAS [FHD]" tvg-logo="http://lfpy.club/VCN" group-title="Canais | Globo Sudeste",GLOBO INTER TV GRANDE MINAS [FHD]
+http://ntvbr.cc:80/321671/819955/374.ts
+#EXTINF:-1 tvg-id="BR - InterTV Grande Minas HD" tvg-name="GLOBO INTER TV GRANDE MINAS [HD]" tvg-logo="http://lfpy.club/ATO" group-title="Canais | Globo Sudeste",GLOBO INTER TV GRANDE MINAS [HD]
+http://ntvbr.cc:80/321671/819955/409.ts
+#EXTINF:-1 tvg-id="BR - InterTV Serra Mar" tvg-name="GLOBO INTER TV SERRA MAR [FHD]" tvg-logo="http://lfpy.club/ASK" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [FHD]
+http://ntvbr.cc:80/321671/819955/375.ts
+#EXTINF:-1 tvg-id="BR - InterTV Serra Mar HD" tvg-name="GLOBO INTER TV SERRA MAR [HD]" tvg-logo="http://lfpy.club/ATP" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [HD]
+http://ntvbr.cc:80/321671/819955/410.ts
+#EXTINF:-1 tvg-id="BR - InterTV Serra Mar" tvg-name="GLOBO INTER TV SERRA MAR [SD]" tvg-logo="http://lfpy.club/VCZ" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [SD]
+http://ntvbr.cc:80/321671/819955/446.ts
+#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [FHD]" tvg-logo="http://lfpy.club/VER" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [FHD]
+http://ntvbr.cc:80/321671/819955/43856.ts
+#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [HD]" tvg-logo="http://lfpy.club/VDD" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [HD]
+http://ntvbr.cc:80/321671/819955/457.ts
+#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [SD]" tvg-logo="http://lfpy.club/VDO" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [SD]
+http://ntvbr.cc:80/321671/819955/32429.ts
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO MINAS [FHD]" tvg-logo="http://lfpy.club/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD]
+http://ntvbr.cc:80/321671/819955/362.ts
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO MINAS [HD]" tvg-logo="http://lfpy.club/ASU" group-title="Canais | Globo Capital",GLOBO MINAS [HD]
+http://ntvbr.cc:80/321671/819955/388.ts
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO MINAS [SD]" tvg-logo="http://lfpy.club/ATZ" group-title="Canais | Globo Capital",GLOBO MINAS [SD]
+http://ntvbr.cc:80/321671/819955/423.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD]" tvg-logo="http://lfpy.club/AWY" group-title="Canais | Notícias",GLOBO NEWS [FHD]
+http://ntvbr.cc:80/321671/819955/512.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD][H265]" tvg-logo="http://lfpy.club/VNB" group-title="Canais | Notícias",GLOBO NEWS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30196.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [HD]" tvg-logo="http://lfpy.club/AXB" group-title="Canais | Notícias",GLOBO NEWS [HD]
+http://ntvbr.cc:80/321671/819955/516.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [SD]" tvg-logo="http://lfpy.club/AXG" group-title="Canais | Notícias",GLOBO NEWS [SD]
+http://ntvbr.cc:80/321671/819955/522.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Blumenau HD" tvg-name="GLOBO NSC TV BLUMENAU [FHD]" tvg-logo="http://lfpy.club/ASL" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [FHD]
+http://ntvbr.cc:80/321671/819955/376.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Blumenau HD" tvg-name="GLOBO NSC TV BLUMENAU [HD]" tvg-logo="http://lfpy.club/ATQ" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [HD]
+http://ntvbr.cc:80/321671/819955/411.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Blumenau HD" tvg-name="GLOBO NSC TV BLUMENAU [SD]" tvg-logo="http://lfpy.club/AUR" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [SD]
+http://ntvbr.cc:80/321671/819955/447.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="GLOBO NSC TV CRICIUMA [FHD]" tvg-logo="http://lfpy.club/VEJ" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [FHD]
+http://ntvbr.cc:80/321671/819955/43842.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="GLOBO NSC TV CRICIUMA [HD]" tvg-logo="http://lfpy.club/VEC" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [HD]
+http://ntvbr.cc:80/321671/819955/43828.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="GLOBO NSC TV CRICIUMA [SD]" tvg-logo="http://lfpy.club/VGG" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [SD]
+http://ntvbr.cc:80/321671/819955/121127.ts
+#EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="GLOBO RBS TV CAXIAS DO SUL [FHD]" tvg-logo="http://lfpy.club/ASM" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [FHD]
+http://ntvbr.cc:80/321671/819955/377.ts
+#EXTINF:-1 tvg-id="BR - RBS TV Caxias do Sul HD" tvg-name="GLOBO RBS TV CAXIAS DO SUL [HD]" tvg-logo="http://lfpy.club/ATR" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [HD]
+http://ntvbr.cc:80/321671/819955/412.ts
+#EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="GLOBO RBS TV CAXIAS DO SUL [SD]" tvg-logo="http://lfpy.club/AUS" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [SD]
+http://ntvbr.cc:80/321671/819955/448.ts
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="GLOBO RBS TV PELOTAS [FHD]" tvg-logo="http://lfpy.club/VCP" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [FHD]
+http://ntvbr.cc:80/321671/819955/379.ts
+#EXTINF:-1 tvg-id="BR - RBS TV Porto Alegre HD" tvg-name="GLOBO RBS TV PELOTAS [HD]" tvg-logo="http://lfpy.club/ATS" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [HD]
+http://ntvbr.cc:80/321671/819955/414.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO RBS TV PELOTAS [SD]" tvg-logo="http://lfpy.club/VDA" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [SD]
+http://ntvbr.cc:80/321671/819955/450.ts
+#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="GLOBO RBS TV SANTA MARIA [FHD]" tvg-logo="http://lfpy.club/VEQ" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [FHD]
+http://ntvbr.cc:80/321671/819955/43855.ts
+#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="GLOBO RBS TV SANTA MARIA [HD]" tvg-logo="http://lfpy.club/VEH" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [HD]
+http://ntvbr.cc:80/321671/819955/43839.ts
+#EXTINF:-1 tvg-id="RBSSMAR" tvg-name="GLOBO RBS TV SANTA MARIA [SD]" tvg-logo="http://lfpy.club/VEI" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [SD]
+http://ntvbr.cc:80/321671/819955/43840.ts
+#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [FHD]" tvg-logo="http://lfpy.club/VEV" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [FHD]
+http://ntvbr.cc:80/321671/819955/56128.ts
+#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [HD]" tvg-logo="http://lfpy.club/VEW" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [HD]
+http://ntvbr.cc:80/321671/819955/56129.ts
+#EXTINF:-1 tvg-id="BR - TV Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [SD]" tvg-logo="http://lfpy.club/JYY3" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [SD]
+http://ntvbr.cc:80/321671/819955/134305.ts
+#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [FHD]" tvg-logo="http://lfpy.club/VEY" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [FHD]
+http://ntvbr.cc:80/321671/819955/56131.ts
+#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [HD]" tvg-logo="http://lfpy.club/VEX" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [HD]
+http://ntvbr.cc:80/321671/819955/56130.ts
+#EXTINF:-1 tvg-id="BR - TV Rondônia" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [SD]" tvg-logo="http://lfpy.club/JYY2" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [SD]
+http://ntvbr.cc:80/321671/819955/134304.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ [FHD]" tvg-logo="http://lfpy.club/VCK" group-title="Canais | Globo Capital",GLOBO RJ [FHD]
+http://ntvbr.cc:80/321671/819955/352.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ [HD]" tvg-logo="http://lfpy.club/ASY" group-title="Canais | Globo Capital",GLOBO RJ [HD]
+http://ntvbr.cc:80/321671/819955/392.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ [SD]" tvg-logo="http://lfpy.club/AUC" group-title="Canais | Globo Capital",GLOBO RJ [SD]
+http://ntvbr.cc:80/321671/819955/427.ts
+#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC CASCAVEL [FHD]" tvg-logo="http://lfpy.club/VGA" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [FHD]
+http://ntvbr.cc:80/321671/819955/121121.ts
+#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC CASCAVEL [HD]" tvg-logo="http://lfpy.club/VFA" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [HD]
+http://ntvbr.cc:80/321671/819955/56133.ts
+#EXTINF:-1 tvg-id="ZYB402" tvg-name="GLOBO RPC CASCAVEL [SD]" tvg-logo="http://lfpy.club/JZB2" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [SD]
+http://ntvbr.cc:80/321671/819955/199788.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD]" tvg-logo="http://lfpy.club/JYY6" group-title="Canais | Globo Capital",GLOBO SP [FHD]
+http://ntvbr.cc:80/321671/819955/168251.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD]" tvg-logo="http://lfpy.club/ART" group-title="Canais | Globo Capital",GLOBO SP [FHD]
+http://ntvbr.cc:80/321671/819955/354.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD][H265]" tvg-logo="http://lfpy.club/VDL" group-title="Canais | Globo Capital",GLOBO SP [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30205.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP [FHD][HDR]" tvg-logo="http://lfpy.club/MXO2" group-title="Canais | Globo Capital",Globo SP [FHD][HDR]
+http://ntvbr.cc:80/321671/819955/251777.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [HD]" tvg-logo="http://lfpy.club/ATA" group-title="Canais | Globo Capital",GLOBO SP [HD]
+http://ntvbr.cc:80/321671/819955/394.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [SD]" tvg-logo="http://lfpy.club/AUE" group-title="Canais | Globo Capital",GLOBO SP [SD]
+http://ntvbr.cc:80/321671/819955/429.ts
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="Globo TEM S. J. Do Rio Preto [FHD]" tvg-logo="http://lfpy.club/VCM" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [FHD]
+http://ntvbr.cc:80/321671/819955/370.ts
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="Globo TEM S. J. Do Rio Preto [HD]" tvg-logo="http://lfpy.club/ATD" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [HD]
+http://ntvbr.cc:80/321671/819955/397.ts
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="Globo TEM S. J. Do Rio Preto [SD]" tvg-logo="http://lfpy.club/AUG" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [SD]
+http://ntvbr.cc:80/321671/819955/432.ts
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [FHD]" tvg-logo="http://lfpy.club/ASD" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [FHD]
+http://ntvbr.cc:80/321671/819955/366.ts
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [HD]" tvg-logo="http://lfpy.club/ATB" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [HD]
+http://ntvbr.cc:80/321671/819955/395.ts
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [SD]" tvg-logo="http://lfpy.club/VDM" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [SD]
+http://ntvbr.cc:80/321671/819955/32427.ts
+#EXTINF:-1 tvg-id="ASABRHD" tvg-name="GLOBO TV ASA BRANCA [FHD]" tvg-logo="http://lfpy.club/VEP" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [FHD]
+http://ntvbr.cc:80/321671/819955/43853.ts
+#EXTINF:-1 tvg-id="BR - TV Asa Branca HD" tvg-name="GLOBO TV ASA BRANCA [HD]" tvg-logo="http://lfpy.club/VGC" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [HD]
+http://ntvbr.cc:80/321671/819955/121123.ts
+#EXTINF:-1 tvg-id="ASABRHD" tvg-name="GLOBO TV ASA BRANCA [SD]" tvg-logo="http://lfpy.club/VDN" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [SD]
+http://ntvbr.cc:80/321671/819955/32428.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV BAHIA [FHD]" tvg-logo="http://lfpy.club/ASE" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [FHD]
+http://ntvbr.cc:80/321671/819955/367.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV BAHIA [HD]" tvg-logo="http://lfpy.club/ATC" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [HD]
+http://ntvbr.cc:80/321671/819955/396.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV BAHIA [SD]" tvg-logo="http://lfpy.club/VCW" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [SD]
+http://ntvbr.cc:80/321671/819955/431.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [FHD]" tvg-logo="http://lfpy.club/VCL" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [FHD]
+http://ntvbr.cc:80/321671/819955/360.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [HD]" tvg-logo="http://lfpy.club/ASS" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [HD]
+http://ntvbr.cc:80/321671/819955/385.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [SD]" tvg-logo="http://lfpy.club/ATX" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [SD]
+http://ntvbr.cc:80/321671/819955/420.ts
+#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [FHD]" tvg-logo="http://lfpy.club/ASN" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [FHD]
+http://ntvbr.cc:80/321671/819955/380.ts
+#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [HD]" tvg-logo="http://lfpy.club/ATT" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [HD]
+http://ntvbr.cc:80/321671/819955/415.ts
+#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [SD]" tvg-logo="http://lfpy.club/AUU" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [SD]
+http://ntvbr.cc:80/321671/819955/451.ts
+#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [FHD]" tvg-logo="http://lfpy.club/VEO" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [FHD]
+http://ntvbr.cc:80/321671/819955/43848.ts
+#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [HD]" tvg-logo="http://lfpy.club/VEG" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [HD]
+http://ntvbr.cc:80/321671/819955/43837.ts
+#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [SD]" tvg-logo="http://lfpy.club/VDT" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [SD]
+http://ntvbr.cc:80/321671/819955/34011.ts
+#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [FHD]" tvg-logo="http://lfpy.club/ARV" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [FHD]
+http://ntvbr.cc:80/321671/819955/357.ts
+#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [HD]" tvg-logo="http://lfpy.club/ATG" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [HD]
+http://ntvbr.cc:80/321671/819955/400.ts
+#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [SD]" tvg-logo="http://lfpy.club/VCY" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [SD]
+http://ntvbr.cc:80/321671/819955/437.ts
+#EXTINF:-1 tvg-id="FRANCE.24.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD]" tvg-logo="http://lfpy.club/ARY" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [FHD]
+http://ntvbr.cc:80/321671/819955/361.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.Live.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [HD]" tvg-logo="http://lfpy.club/VCQ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [HD]
+http://ntvbr.cc:80/321671/819955/386.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.Live.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [SD]" tvg-logo="http://lfpy.club/ATY" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [SD]
+http://ntvbr.cc:80/321671/819955/421.ts
+#EXTINF:-1 tvg-id="EPTV.Ribeirão.HD.br" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [FHD][H265]" tvg-logo="http://lfpy.club/VDJ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30203.ts
+#EXTINF:-1 tvg-id="EPTV.Ribeirão.HD.br" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [HD]" tvg-logo="http://lfpy.club/AST" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [HD]
+http://ntvbr.cc:80/321671/819955/387.ts
+#EXTINF:-1 tvg-id="EPTV.Ribeirão.HD.br" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [SD]" tvg-logo="http://lfpy.club/VDQ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [SD]
+http://ntvbr.cc:80/321671/819955/32431.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SAO CARLOS [HD]" tvg-logo="http://lfpy.club/JZA9" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SAO CARLOS [HD]
+http://ntvbr.cc:80/321671/819955/199663.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [SD]" tvg-logo="http://lfpy.club/AUZ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SAO CARLOS [SD]
+http://ntvbr.cc:80/321671/819955/459.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [FHD]" tvg-logo="http://lfpy.club/VFV" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [FHD]
+http://ntvbr.cc:80/321671/819955/109984.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [HD]" tvg-logo="http://lfpy.club/VFU" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [HD]
+http://ntvbr.cc:80/321671/819955/109983.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [SD]" tvg-logo="http://lfpy.club/VFT" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [SD]
+http://ntvbr.cc:80/321671/819955/109982.ts
+#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [FHD]" tvg-logo="http://lfpy.club/VGB" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [FHD]
+http://ntvbr.cc:80/321671/819955/121122.ts
+#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [HD]" tvg-logo="http://lfpy.club/VEU" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [HD]
+http://ntvbr.cc:80/321671/819955/56127.ts
+#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [SD]" tvg-logo="http://lfpy.club/VET" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [SD]
+http://ntvbr.cc:80/321671/819955/56126.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [FHD]" tvg-logo="http://lfpy.club/ASH" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [FHD]
+http://ntvbr.cc:80/321671/819955/371.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [HD]" tvg-logo="http://lfpy.club/VCR" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [HD]
+http://ntvbr.cc:80/321671/819955/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [SD]" tvg-logo="http://lfpy.club/AUN" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [SD]
+http://ntvbr.cc:80/321671/819955/442.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES [FHD]" tvg-logo="http://lfpy.club/ASI" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA SUL ES [FHD]
+http://ntvbr.cc:80/321671/819955/372.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES [HD]" tvg-logo="http://lfpy.club/ATL" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA SUL ES [HD]
+http://ntvbr.cc:80/321671/819955/406.ts
+#EXTINF:-1 tvg-id="BR - TV Vitória HD" tvg-name="GLOBO TV GAZETA VITORIA [FHD]" tvg-logo="http://lfpy.club/ARW" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [FHD]
+http://ntvbr.cc:80/321671/819955/358.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO TV GAZETA VITORIA [HD]" tvg-logo="http://lfpy.club/ATH" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [HD]
+http://ntvbr.cc:80/321671/819955/401.ts
+#EXTINF:-1 tvg-id="BR - TV Vitória" tvg-name="GLOBO TV GAZETA VITORIA [SD]" tvg-logo="http://lfpy.club/AUJ" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [SD]
+http://ntvbr.cc:80/321671/819955/438.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]" tvg-logo="http://lfpy.club/VFI" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]
+http://ntvbr.cc:80/321671/819955/65249.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [HD]" tvg-logo="http://lfpy.club/VFH" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [HD]
+http://ntvbr.cc:80/321671/819955/65248.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [SD]" tvg-logo="http://lfpy.club/JZB1" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [SD]
+http://ntvbr.cc:80/321671/819955/199787.ts
+#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [FHD]" tvg-logo="http://lfpy.club/VGV" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [FHD]
+http://ntvbr.cc:80/321671/819955/122770.ts
+#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [HD]" tvg-logo="http://lfpy.club/VFB" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [HD]
+http://ntvbr.cc:80/321671/819955/56138.ts
+#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [SD]" tvg-logo="http://lfpy.club/VGW" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [SD]
+http://ntvbr.cc:80/321671/819955/122771.ts
+#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [FHD]" tvg-logo="http://lfpy.club/VFX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [FHD]
+http://ntvbr.cc:80/321671/819955/119987.ts
+#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [HD]" tvg-logo="http://lfpy.club/VDX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [HD]
+http://ntvbr.cc:80/321671/819955/43818.ts
+#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [SD]" tvg-logo="http://lfpy.club/AUX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [SD]
+http://ntvbr.cc:80/321671/819955/455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais [FHD]" tvg-logo="http://lfpy.club/NRM0" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais [FHD]
+http://ntvbr.cc:80/321671/819955/300927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais [HD]" tvg-logo="http://lfpy.club/NRM1" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais [HD]
+http://ntvbr.cc:80/321671/819955/300928.ts
+#EXTINF:-1 tvg-id="BR - TV Mirante São Luis HD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://lfpy.club/ASF" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [FHD]
+http://ntvbr.cc:80/321671/819955/368.ts
+#EXTINF:-1 tvg-id="BR - TV Mirante São Luis HD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://lfpy.club/ATJ" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [HD]
+http://ntvbr.cc:80/321671/819955/403.ts
+#EXTINF:-1 tvg-id="BR - TV Mirante São Luis HD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://lfpy.club/AUL" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [SD]
+http://ntvbr.cc:80/321671/819955/440.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante São Luis [HD]" tvg-logo="http://lfpy.club/NRM2" group-title="Canais | Globo Nordeste",Globo TV Mirante São Luis [HD]
+http://ntvbr.cc:80/321671/819955/300929.ts
+#EXTINF:-1 tvg-id="tvmorena" tvg-name="GLOBO TV MORENA CAMPO GRANDE [FHD]" tvg-logo="http://lfpy.club/ASG" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [FHD]
+http://ntvbr.cc:80/321671/819955/369.ts
+#EXTINF:-1 tvg-id="tvmorena" tvg-name="GLOBO TV MORENA CAMPO GRANDE [HD]" tvg-logo="http://lfpy.club/ATK" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [HD]
+http://ntvbr.cc:80/321671/819955/404.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO TV MORENA CAMPO GRANDE [SD]" tvg-logo="http://lfpy.club/AUM" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [SD]
+http://ntvbr.cc:80/321671/819955/441.ts
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [FHD]" tvg-logo="http://lfpy.club/ASA" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [FHD]
+http://ntvbr.cc:80/321671/819955/363.ts
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [HD]" tvg-logo="http://lfpy.club/ASV" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [HD]
+http://ntvbr.cc:80/321671/819955/389.ts
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [SD]" tvg-logo="http://lfpy.club/VCV" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [SD]
+http://ntvbr.cc:80/321671/819955/424.ts
+#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="GLOBO TV NSC JOINVILLE [FHD]" tvg-logo="http://lfpy.club/VCO" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [FHD]
+http://ntvbr.cc:80/321671/819955/378.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Joinville HD" tvg-name="GLOBO TV NSC JOINVILLE [HD]" tvg-logo="http://lfpy.club/VCS" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [HD]
+http://ntvbr.cc:80/321671/819955/413.ts
+#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="GLOBO TV NSC JOINVILLE [SD]" tvg-logo="http://lfpy.club/AUT" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [SD]
+http://ntvbr.cc:80/321671/819955/449.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [FHD]" tvg-logo="http://lfpy.club/ASB" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [FHD]
+http://ntvbr.cc:80/321671/819955/364.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [HD]" tvg-logo="http://lfpy.club/ASW" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [HD]
+http://ntvbr.cc:80/321671/819955/390.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [SD]" tvg-logo="http://lfpy.club/AUA" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [SD]
+http://ntvbr.cc:80/321671/819955/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PASSO FUNDO [HD]" tvg-logo="http://lfpy.club/JYX6" group-title="Canais | Globo Sul",GLOBO TV PASSO FUNDO [HD]
+http://ntvbr.cc:80/321671/819955/132950.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PASSO FUNDO [SD]" tvg-logo="http://lfpy.club/JYX7" group-title="Canais | Globo Sul",GLOBO TV PASSO FUNDO [SD]
+http://ntvbr.cc:80/321671/819955/132951.ts
+#EXTINF:-1 tvg-id="RBSPAHD" tvg-name="GLOBO TV RBS PORTO ALEGRE [FHD]" tvg-logo="http://lfpy.club/ASC" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [FHD]
+http://ntvbr.cc:80/321671/819955/365.ts
+#EXTINF:-1 tvg-id="GLBRBSP" tvg-name="GLOBO TV RBS PORTO ALEGRE [HD]" tvg-logo="http://lfpy.club/ASX" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [HD]
+http://ntvbr.cc:80/321671/819955/391.ts
+#EXTINF:-1 tvg-id="RBSPAHD" tvg-name="GLOBO TV RBS PORTO ALEGRE [SD]" tvg-logo="http://lfpy.club/VDV" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [SD]
+http://ntvbr.cc:80/321671/819955/34013.ts
+#EXTINF:-1 tvg-id="BR - Rede Amazônica Manaus HD" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [FHD]" tvg-logo="http://lfpy.club/VFF" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [FHD]
+http://ntvbr.cc:80/321671/819955/59558.ts
+#EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [HD]" tvg-logo="http://lfpy.club/VEZ" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [HD]
+http://ntvbr.cc:80/321671/819955/56132.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [SD]" tvg-logo="http://lfpy.club/VDP" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [SD]
+http://ntvbr.cc:80/321671/819955/32430.ts
+#EXTINF:-1 tvg-id="RIOSULH" tvg-name="GLOBO TV RIO SUL [FHD]" tvg-logo="http://lfpy.club/ASO" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [FHD]
+http://ntvbr.cc:80/321671/819955/381.ts
+#EXTINF:-1 tvg-id="BR - TV Rio Sul HD" tvg-name="GLOBO TV RIO SUL [HD]" tvg-logo="http://lfpy.club/ATU" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [HD]
+http://ntvbr.cc:80/321671/819955/416.ts
+#EXTINF:-1 tvg-id="RIOSULH" tvg-name="GLOBO TV RIO SUL [SD]" tvg-logo="http://lfpy.club/VDB" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [SD]
+http://ntvbr.cc:80/321671/819955/452.ts
+#EXTINF:-1 tvg-id="BR - RPC Foz do Iguaçu HD" tvg-name="GLOBO TV RPC FOZ DO IGUACU [FHD]" tvg-logo="http://lfpy.club/ARU" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [FHD]
+http://ntvbr.cc:80/321671/819955/356.ts
+#EXTINF:-1 tvg-id="RGFOZIG" tvg-name="GLOBO TV RPC FOZ DO IGUACU [HD]" tvg-logo="http://lfpy.club/ATF" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [HD]
+http://ntvbr.cc:80/321671/819955/399.ts
+#EXTINF:-1 tvg-id="BR - RPC Foz do Iguaçu HD" tvg-name="GLOBO TV RPC FOZ DO IGUACU [SD]" tvg-logo="http://lfpy.club/AUI" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [SD]
+http://ntvbr.cc:80/321671/819955/436.ts
+#EXTINF:-1 tvg-id="BR - RPC Maringá" tvg-name="GLOBO TV RPC MARINGA [FHD]" tvg-logo="http://lfpy.club/ARR" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [FHD]
+http://ntvbr.cc:80/321671/819955/351.ts
+#EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="GLOBO TV RPC MARINGA [HD]" tvg-logo="http://lfpy.club/ASR" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [HD]
+http://ntvbr.cc:80/321671/819955/384.ts
+#EXTINF:-1 tvg-id="BR - RPC Maringá HD" tvg-name="GLOBO TV RPC MARINGA [SD]" tvg-logo="http://lfpy.club/VCT" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [SD]
+http://ntvbr.cc:80/321671/819955/419.ts
+#EXTINF:-1 tvg-id="ZYB411" tvg-name="GLOBO TV RPC PARANAVAI [FHD]" tvg-logo="http://lfpy.club/VEK" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [FHD]
+http://ntvbr.cc:80/321671/819955/43843.ts
+#EXTINF:-1 tvg-id="ZYB411" tvg-name="GLOBO TV RPC PARANAVAI [HD]" tvg-logo="http://lfpy.club/VED" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [HD]
+http://ntvbr.cc:80/321671/819955/43830.ts
+#EXTINF:-1 tvg-id="BR - RPC Paranavaí HD" tvg-name="GLOBO TV RPC PARANAVAI [SD]" tvg-logo="http://lfpy.club/VGF" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [SD]
+http://ntvbr.cc:80/321671/819955/121126.ts
+#EXTINF:-1 tvg-id="BR - TV Santa Cruz" tvg-name="GLOBO TV SANTA CRUZ [FHD]" tvg-logo="http://lfpy.club/ASP" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [FHD]
+http://ntvbr.cc:80/321671/819955/382.ts
+#EXTINF:-1 tvg-id="BR - TV Santa Cruz HD" tvg-name="GLOBO TV SANTA CRUZ [HD]" tvg-logo="http://lfpy.club/ATV" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [HD]
+http://ntvbr.cc:80/321671/819955/417.ts
+#EXTINF:-1 tvg-id="BR - TV Santa Cruz" tvg-name="GLOBO TV SANTA CRUZ [SD]" tvg-logo="http://lfpy.club/AUV" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [SD]
+http://ntvbr.cc:80/321671/819955/453.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO TV SERGIPE [FHD]" tvg-logo="http://lfpy.club/ARX" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [FHD]
+http://ntvbr.cc:80/321671/819955/359.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO TV SERGIPE [HD]" tvg-logo="http://lfpy.club/ATI" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [HD]
+http://ntvbr.cc:80/321671/819955/402.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO TV SERGIPE [SD]" tvg-logo="http://lfpy.club/JZO8" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [SD]
+http://ntvbr.cc:80/321671/819955/246895.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [FHD]" tvg-logo="http://lfpy.club/VFR" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [FHD]
+http://ntvbr.cc:80/321671/819955/69091.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [HD]" tvg-logo="http://lfpy.club/VFQ" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [HD]
+http://ntvbr.cc:80/321671/819955/69090.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [SD]" tvg-logo="http://lfpy.club/AUW" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [SD]
+http://ntvbr.cc:80/321671/819955/454.ts
+#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [FHD]" tvg-logo="http://lfpy.club/VGI" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [FHD]
+http://ntvbr.cc:80/321671/819955/122753.ts
+#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [HD]" tvg-logo="http://lfpy.club/VGH" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [HD]
+http://ntvbr.cc:80/321671/819955/122752.ts
+#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [SD]" tvg-logo="http://lfpy.club/VDR" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [SD]
+http://ntvbr.cc:80/321671/819955/32434.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [FHD]" tvg-logo="http://lfpy.club/VFZ" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [FHD]
+http://ntvbr.cc:80/321671/819955/119990.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [HD]" tvg-logo="http://lfpy.club/VFY" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [HD]
+http://ntvbr.cc:80/321671/819955/119989.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [SD]" tvg-logo="http://lfpy.club/VDC" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [SD]
+http://ntvbr.cc:80/321671/819955/456.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [FHD]" tvg-logo="http://lfpy.club/VFS" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [FHD]
+http://ntvbr.cc:80/321671/819955/102041.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [HD]" tvg-logo="http://lfpy.club/VES" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [HD]
+http://ntvbr.cc:80/321671/819955/56125.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [SD]" tvg-logo="http://lfpy.club/AUH" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [SD]
+http://ntvbr.cc:80/321671/819955/433.ts
+#EXTINF:-1 tvg-id="BR - TV Vanguarda HD" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [FHD]" tvg-logo="http://lfpy.club/VGK" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [FHD]
+http://ntvbr.cc:80/321671/819955/122758.ts
+#EXTINF:-1 tvg-id="BR - TV Vanguarda HD" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [HD]" tvg-logo="http://lfpy.club/VGJ" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [HD]
+http://ntvbr.cc:80/321671/819955/122757.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [SD]" tvg-logo="http://lfpy.club/VCX" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [SD]
+http://ntvbr.cc:80/321671/819955/434.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO TV VANGUARDA TAUBATE [FHD]" tvg-logo="http://lfpy.club/VFE" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [FHD]
+http://ntvbr.cc:80/321671/819955/56179.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO TV VANGUARDA TAUBATE [HD]" tvg-logo="http://lfpy.club/VFD" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [HD]
+http://ntvbr.cc:80/321671/819955/56140.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Vanguarda" tvg-name="GLOBO TV VANGUARDA TAUBATE [SD]" tvg-logo="http://lfpy.club/VFW" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [SD]
+http://ntvbr.cc:80/321671/819955/110300.ts
+#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES FORTALEZA [FHD]" tvg-logo="http://lfpy.club/VFM" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [FHD]
+http://ntvbr.cc:80/321671/819955/65253.ts
+#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES FORTALEZA [HD]" tvg-logo="http://lfpy.club/VFL" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [HD]
+http://ntvbr.cc:80/321671/819955/65252.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV VERDES MARES FORTALEZA [SD]" tvg-logo="http://lfpy.club/AVB" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [SD]
+http://ntvbr.cc:80/321671/819955/461.ts
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD]" tvg-logo="http://lfpy.club/AJZ" group-title="Canais | Infantis",GLOOB [FHD]
+http://ntvbr.cc:80/321671/819955/136.ts
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD][H265]" tvg-logo="http://lfpy.club/WJA" group-title="Canais | Infantis",GLOOB [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30266.ts
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [HD]" tvg-logo="http://lfpy.club/AKE" group-title="Canais | Infantis",GLOOB [HD]
+http://ntvbr.cc:80/321671/819955/142.ts
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [SD]" tvg-logo="http://lfpy.club/AKR" group-title="Canais | Infantis",GLOOB [SD]
+http://ntvbr.cc:80/321671/819955/156.ts
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://lfpy.club/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
+http://ntvbr.cc:80/321671/819955/128.ts
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD][H265]" tvg-logo="http://lfpy.club/WJD" group-title="Canais | Infantis",GLOOBINHO [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30274.ts
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [HD]" tvg-logo="http://lfpy.club/BQO" group-title="Canais | Infantis",GLOOBINHO [HD]
+http://ntvbr.cc:80/321671/819955/1068.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [FHD]" tvg-logo="http://lfpy.club/AIT" group-title="Canais | Variedades",GNT [FHD]
+http://ntvbr.cc:80/321671/819955/102.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..GNT.br" tvg-name="GNT [FHD][H265]" tvg-logo="http://lfpy.club/VMX" group-title="Canais | Variedades",GNT [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30187.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [HD]" tvg-logo="http://lfpy.club/AJA" group-title="Canais | Variedades",GNT [HD]
+http://ntvbr.cc:80/321671/819955/111.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [SD]" tvg-logo="http://lfpy.club/AJJ" group-title="Canais | Variedades",GNT [SD]
+http://ntvbr.cc:80/321671/819955/120.ts
+#EXTINF:-1 tvg-id="BR - Golf Channel" tvg-name="GOLF CHANNEL [FHD]" tvg-logo="http://lfpy.club/WKN" group-title="Canais | Esportes",GOLF CHANNEL [FHD]
+http://ntvbr.cc:80/321671/819955/124093.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD]" tvg-logo="http://lfpy.club/AVK" group-title="Canais | HBO",HBO 2 [FHD]
+http://ntvbr.cc:80/321671/819955/470.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD][H265]" tvg-logo="http://lfpy.club/VSK" group-title="Canais | HBO",HBO 2 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30234.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [HD]" tvg-logo="http://lfpy.club/AVM" group-title="Canais | HBO",HBO 2 [HD]
+http://ntvbr.cc:80/321671/819955/472.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [SD]" tvg-logo="http://lfpy.club/VSE" group-title="Canais | HBO",HBO 2 [SD]
+http://ntvbr.cc:80/321671/819955/481.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD]" tvg-logo="http://lfpy.club/AVE" group-title="Canais | HBO",HBO FAMILY [FHD]
+http://ntvbr.cc:80/321671/819955/464.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="http://lfpy.club/VSL" group-title="Canais | HBO",HBO FAMILY [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30235.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [HD]" tvg-logo="http://lfpy.club/VSD" group-title="Canais | HBO",HBO FAMILY [HD]
+http://ntvbr.cc:80/321671/819955/473.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [SD]" tvg-logo="http://lfpy.club/AVV" group-title="Canais | HBO",HBO FAMILY [SD]
+http://ntvbr.cc:80/321671/819955/483.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="http://lfpy.club/AVH" group-title="Canais | HBO",HBO MUNDI [FHD]
+http://ntvbr.cc:80/321671/819955/467.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [FHD] LEG" tvg-logo="http://lfpy.club/VWN" group-title="Canais | Legendados",HBO MUNDI [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123557.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI [FHD][H265]" tvg-logo="http://lfpy.club/VSP" group-title="Canais | HBO",HBO MUNDI [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30239.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI [HD]" tvg-logo="http://lfpy.club/AVQ" group-title="Canais | HBO",HBO MUNDI [HD]
+http://ntvbr.cc:80/321671/819955/477.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [HD] LEG" tvg-logo="http://lfpy.club/VWO" group-title="Canais | Legendados",HBO MUNDI [HD] LEG
+http://ntvbr.cc:80/321671/819955/123558.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI [SD]" tvg-logo="http://lfpy.club/AVX" group-title="Canais | HBO",HBO MUNDI [SD]
+http://ntvbr.cc:80/321671/819955/485.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD]" tvg-logo="http://lfpy.club/AVF" group-title="Canais | HBO",HBO PLUS [FHD]
+http://ntvbr.cc:80/321671/819955/465.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [FHD] LEG" tvg-logo="http://lfpy.club/VVS" group-title="Canais | Legendados",HBO PLUS [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123491.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD][H265]" tvg-logo="http://lfpy.club/VSN" group-title="Canais | HBO",HBO PLUS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30237.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [HD]" tvg-logo="http://lfpy.club/AVO" group-title="Canais | HBO",HBO PLUS [HD]
+http://ntvbr.cc:80/321671/819955/475.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [HD] LEG" tvg-logo="http://lfpy.club/VVQ" group-title="Canais | Legendados",HBO PLUS [HD] LEG
+http://ntvbr.cc:80/321671/819955/123489.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [SD]" tvg-logo="http://lfpy.club/AVU" group-title="Canais | HBO",HBO PLUS [SD]
+http://ntvbr.cc:80/321671/819955/482.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [SD] LEG" tvg-logo="http://lfpy.club/VVR" group-title="Canais | Legendados",HBO PLUS [SD] LEG
+http://ntvbr.cc:80/321671/819955/123490.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP [FHD]" tvg-logo="http://lfpy.club/AVJ" group-title="Canais | HBO",HBO POP [FHD]
+http://ntvbr.cc:80/321671/819955/469.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [FHD] LEG" tvg-logo="http://lfpy.club/WIS" group-title="Canais | Legendados",HBO POP [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123554.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP [FHD][H265]" tvg-logo="http://lfpy.club/WHN" group-title="Canais | HBO",HBO POP [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30241.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP [HD]" tvg-logo="http://lfpy.club/AVS" group-title="Canais | HBO",HBO POP [HD]
+http://ntvbr.cc:80/321671/819955/479.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [HD] LEG" tvg-logo="http://lfpy.club/WIJ" group-title="Canais | Legendados",HBO POP [HD] LEG
+http://ntvbr.cc:80/321671/819955/123508.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.Pop.br" tvg-name="HBO POP [SD]" tvg-logo="http://lfpy.club/AVZ" group-title="Canais | HBO",HBO POP [SD]
+http://ntvbr.cc:80/321671/819955/487.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [SD] LEG" tvg-logo="http://lfpy.club/WIK" group-title="Canais | Legendados",HBO POP [SD] LEG
+http://ntvbr.cc:80/321671/819955/123509.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD]" tvg-logo="http://lfpy.club/AVG" group-title="Canais | HBO",HBO SIGNATURE [FHD]
+http://ntvbr.cc:80/321671/819955/466.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [FHD] LEG" tvg-logo="http://lfpy.club/VWL" group-title="Canais | Legendados",HBO SIGNATURE [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123555.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD][H265]" tvg-logo="http://lfpy.club/VSO" group-title="Canais | HBO",HBO SIGNATURE [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30238.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [HD]" tvg-logo="http://lfpy.club/AVP" group-title="Canais | HBO",HBO SIGNATURE [HD]
+http://ntvbr.cc:80/321671/819955/476.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [HD] LEG" tvg-logo="http://lfpy.club/VWM" group-title="Canais | Legendados",HBO SIGNATURE [HD] LEG
+http://ntvbr.cc:80/321671/819955/123556.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [SD]" tvg-logo="http://lfpy.club/AVW" group-title="Canais | HBO",HBO SIGNATURE [SD]
+http://ntvbr.cc:80/321671/819955/484.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD]" tvg-logo="http://lfpy.club/AVI" group-title="Canais | HBO",HBO XTREME [FHD]
+http://ntvbr.cc:80/321671/819955/468.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [FHD] LEG" tvg-logo="http://lfpy.club/WIT" group-title="Canais | Legendados",HBO XTREME [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123559.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.br" tvg-name="HBO XTREME [FHD][H265]" tvg-logo="http://lfpy.club/WHM" group-title="Canais | HBO",HBO XTREME [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30240.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME [HD]" tvg-logo="http://lfpy.club/AVR" group-title="Canais | HBO",HBO XTREME [HD]
+http://ntvbr.cc:80/321671/819955/478.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [HD] LEG" tvg-logo="http://lfpy.club/WIU" group-title="Canais | Legendados",HBO XTREME [HD] LEG
+http://ntvbr.cc:80/321671/819955/123560.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [SD] LEG" tvg-logo="http://lfpy.club/WIE" group-title="Canais | Legendados",HBO XTREME [SD] LEG
+http://ntvbr.cc:80/321671/819955/123492.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD]" tvg-logo="http://lfpy.club/AVL" group-title="Canais | HBO",HBO [FHD]
+http://ntvbr.cc:80/321671/819955/471.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD] LEG" tvg-logo="http://lfpy.club/VVP" group-title="Canais | Legendados",HBO [FHD] LEG
+http://ntvbr.cc:80/321671/819955/123488.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD][H265]" tvg-logo="http://lfpy.club/VSM" group-title="Canais | HBO",HBO [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30236.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [HD]" tvg-logo="http://lfpy.club/AVN" group-title="Canais | HBO",HBO [HD]
+http://ntvbr.cc:80/321671/819955/474.ts
+#EXTINF:-1 tvg-id="BR - HBO HD" tvg-name="HBO [HD] LEG" tvg-logo="http://lfpy.club/VVN" group-title="Canais | Legendados",HBO [HD] LEG
+http://ntvbr.cc:80/321671/819955/123486.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD]" tvg-logo="http://lfpy.club/AVT" group-title="Canais | HBO",HBO [SD]
+http://ntvbr.cc:80/321671/819955/480.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD] LEG" tvg-logo="http://lfpy.club/VVO" group-title="Canais | Legendados",HBO [SD] LEG
+http://ntvbr.cc:80/321671/819955/123487.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD]" tvg-logo="http://lfpy.club/ALB" group-title="Canais | Documentários",HGTV [FHD]
+http://ntvbr.cc:80/321671/819955/167.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD][H265]" tvg-logo="http://lfpy.club/WJT" group-title="Canais | Documentários",HGTV [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30253.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [HD]" tvg-logo="http://lfpy.club/ALP" group-title="Canais | Documentários",HGTV [HD]
+http://ntvbr.cc:80/321671/819955/182.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [SD]" tvg-logo="http://lfpy.club/AMC" group-title="Canais | Documentários",HGTV [SD]
+http://ntvbr.cc:80/321671/819955/197.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [FHD]" tvg-logo="http://lfpy.club/ALH" group-title="Canais | Documentários",HISTORY CHANNEL 2 [FHD]
+http://ntvbr.cc:80/321671/819955/173.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [FHD][H265]" tvg-logo="http://lfpy.club/WJY" group-title="Canais | Documentários",HISTORY CHANNEL 2 [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30262.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [HD]" tvg-logo="http://lfpy.club/ALU" group-title="Canais | Documentários",HISTORY CHANNEL 2 [HD]
+http://ntvbr.cc:80/321671/819955/188.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [SD]" tvg-logo="http://lfpy.club/AMI" group-title="Canais | Documentários",HISTORY CHANNEL 2 [SD]
+http://ntvbr.cc:80/321671/819955/203.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD]" tvg-logo="http://lfpy.club/ALI" group-title="Canais | Documentários",HISTORY CHANNEL [FHD]
+http://ntvbr.cc:80/321671/819955/174.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD][H265]" tvg-logo="http://lfpy.club/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30250.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [HD]" tvg-logo="http://lfpy.club/ALV" group-title="Canais | Documentários",HISTORY CHANNEL [HD]
+http://ntvbr.cc:80/321671/819955/189.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [SD]" tvg-logo="http://lfpy.club/AMJ" group-title="Canais | Documentários",HISTORY CHANNEL [SD]
+http://ntvbr.cc:80/321671/819955/204.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://lfpy.club/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30259.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [FHD]" tvg-logo="http://lfpy.club/WJJ" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [FHD]
+http://ntvbr.cc:80/321671/819955/175.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [HD]" tvg-logo="http://lfpy.club/ALW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [HD]
+http://ntvbr.cc:80/321671/819955/190.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [SD]" tvg-logo="http://lfpy.club/AMK" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [SD]
+http://ntvbr.cc:80/321671/819955/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lfpy.club/NMY2" group-title="Canais | Eventos de Hoje",Jogos de Hoje
+http://ntvbr.cc:80/321671/819955/300155.ts
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="JOVEM PAN NEWS [FHD]" tvg-logo="http://lfpy.club/VPE" group-title="Canais | Notícias",JOVEM PAN NEWS [FHD]
+http://ntvbr.cc:80/321671/819955/98166.ts
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="JOVEM PAN NEWS [FHD][H265]" tvg-logo="http://lfpy.club/VPF" group-title="Canais | Notícias",JOVEM PAN NEWS [FHD][H265]
+http://ntvbr.cc:80/321671/819955/98167.ts
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="JOVEM PAN NEWS [HD]" tvg-logo="http://lfpy.club/VPD" group-title="Canais | Notícias",JOVEM PAN NEWS [HD]
+http://ntvbr.cc:80/321671/819955/98165.ts
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="JOVEM PAN NEWS [SD]" tvg-logo="http://lfpy.club/VPC" group-title="Canais | Notícias",JOVEM PAN NEWS [SD]
+http://ntvbr.cc:80/321671/819955/98128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kings League Brazil [HD]" tvg-logo="http://lfpy.club/NMX0" group-title="Canais | Kings League Brazil",Kings League Brazil [HD]
+http://ntvbr.cc:80/321671/819955/299586.ts
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="LIFE TIME [FHD]" tvg-logo="http://lfpy.club/APD" group-title="Canais | Filmes e Séries",LIFE TIME [FHD]
+http://ntvbr.cc:80/321671/819955/280.ts
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="LIFE TIME [FHD][H265]" tvg-logo="http://lfpy.club/WJO" group-title="Canais | Filmes e Séries",LIFE TIME [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30217.ts
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="LIFE TIME [HD]" tvg-logo="http://lfpy.club/AQE" group-title="Canais | Filmes e Séries",LIFE TIME [HD]
+http://ntvbr.cc:80/321671/819955/309.ts
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="LIFE TIME [SD]" tvg-logo="http://lfpy.club/ARB" group-title="Canais | Filmes e Séries",LIFE TIME [SD]
+http://ntvbr.cc:80/321671/819955/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE [HD]" tvg-logo="http://lfpy.club/VAW" group-title="Canais | Art & Music",LIKE [HD]
+http://ntvbr.cc:80/321671/819955/125218.ts
+#EXTINF:-1 tvg-id="" tvg-name="LNF 01 [HD]" tvg-logo="http://lfpy.club/VPO" group-title="Canais | Jogos & Eventos",LNF 01 [HD]
+http://ntvbr.cc:80/321671/819955/116356.ts
+#EXTINF:-1 tvg-id="" tvg-name="LNF 02 [HD]" tvg-logo="http://lfpy.club/VPN" group-title="Canais | Jogos & Eventos",LNF 02 [HD]
+http://ntvbr.cc:80/321671/819955/116355.ts
+#EXTINF:-1 tvg-id="" tvg-name="LNF 03 [HD]" tvg-logo="http://lfpy.club/VPM" group-title="Canais | Jogos & Eventos",LNF 03 [HD]
+http://ntvbr.cc:80/321671/819955/116354.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [FHD]" tvg-logo="http://lfpy.club/VNO" group-title="Canais | Variedades",LOADING [FHD]
+http://ntvbr.cc:80/321671/819955/58245.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [HD]" tvg-logo="http://lfpy.club/VNQ" group-title="Canais | Variedades",LOADING [HD]
+http://ntvbr.cc:80/321671/819955/58247.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [SD]" tvg-logo="http://lfpy.club/VNP" group-title="Canais | Variedades",LOADING [SD]
+http://ntvbr.cc:80/321671/819955/58246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luta Exclusivas [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Luta Exclusivas [FHD]
+http://ntvbr.cc:80/321671/819955/139221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lutas do Dia" tvg-logo="http://lfpy.club/NMY1" group-title="Canais | Eventos de Hoje",Lutas do Dia
+http://ntvbr.cc:80/321671/819955/300154.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [FHD]" tvg-logo="http://lfpy.club/BJU8" group-title="Canais | HBO Max",MAX 1 [FHD]
+http://ntvbr.cc:80/321671/819955/195782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://lfpy.club/OOF" group-title="Canais | HBO Max",MAX 1 [HD]
+http://ntvbr.cc:80/321671/819955/92846.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://lfpy.club/BHZ2" group-title="Canais | HBO Max",MAX 1 [HD]
+http://ntvbr.cc:80/321671/819955/195788.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD] [ALTER]" tvg-logo="http://lfpy.club/BIO4" group-title="Canais | HBO Max",MAX 1 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/199969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [SD]" tvg-logo="http://lfpy.club/BHZ8" group-title="Canais | HBO Max",MAX 1 [SD]
+http://ntvbr.cc:80/321671/819955/195794.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 10 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP3" group-title="Canais | HBO Max",MAX 10 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283807.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 11 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP4" group-title="Canais | HBO Max",MAX 11 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283808.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 12 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP5" group-title="Canais | HBO Max",MAX 12 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283809.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [FHD]" tvg-logo="http://lfpy.club/BJU9" group-title="Canais | HBO Max",MAX 2 [FHD]
+http://ntvbr.cc:80/321671/819955/195783.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [HD]" tvg-logo="http://lfpy.club/BHZ3" group-title="Canais | HBO Max",MAX 2 [HD]
+http://ntvbr.cc:80/321671/819955/195789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [HD] [ALTER]" tvg-logo="http://lfpy.club/BIO3" group-title="Canais | HBO Max",MAX 2 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/199968.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [SD]" tvg-logo="http://lfpy.club/BHZ9" group-title="Canais | HBO Max",MAX 2 [SD]
+http://ntvbr.cc:80/321671/819955/195795.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [ALTER] [HD]" tvg-logo="http://lfpy.club/BIO2" group-title="Canais | HBO Max",MAX 3 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/199967.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [FHD]" tvg-logo="http://lfpy.club/BJV0" group-title="Canais | HBO Max",MAX 3 [FHD]
+http://ntvbr.cc:80/321671/819955/195784.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [HD]" tvg-logo="http://lfpy.club/BHZ4" group-title="Canais | HBO Max",MAX 3 [HD]
+http://ntvbr.cc:80/321671/819955/195790.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXO6" group-title="Canais | HBO Max",MAX 3 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283800.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [SD]" tvg-logo="http://lfpy.club/BIA0" group-title="Canais | HBO Max",MAX 3 [SD]
+http://ntvbr.cc:80/321671/819955/195796.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [ALTER] [HD]" tvg-logo="http://lfpy.club/BIO1" group-title="Canais | HBO Max",MAX 4 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/199966.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [FHD]" tvg-logo="http://lfpy.club/BJV1" group-title="Canais | HBO Max",MAX 4 [FHD]
+http://ntvbr.cc:80/321671/819955/195785.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [HD]" tvg-logo="http://lfpy.club/BHZ5" group-title="Canais | HBO Max",MAX 4 [HD]
+http://ntvbr.cc:80/321671/819955/195791.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXO7" group-title="Canais | HBO Max",MAX 4 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283801.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [SD]" tvg-logo="http://lfpy.club/DPE2" group-title="Canais | HBO Max",MAX 4 [SD]
+http://ntvbr.cc:80/321671/819955/195797.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [ALTER] [HD]" tvg-logo="http://lfpy.club/BIO0" group-title="Canais | HBO Max",MAX 5 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/199965.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [FHD]" tvg-logo="http://lfpy.club/BJV2" group-title="Canais | HBO Max",MAX 5 [FHD]
+http://ntvbr.cc:80/321671/819955/195786.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [HD]" tvg-logo="http://lfpy.club/BHZ6" group-title="Canais | HBO Max",MAX 5 [HD]
+http://ntvbr.cc:80/321671/819955/195792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXO5" group-title="Canais | HBO Max",MAX 5 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283799.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [SD]" tvg-logo="http://lfpy.club/DPE3" group-title="Canais | HBO Max",MAX 5 [SD]
+http://ntvbr.cc:80/321671/819955/195798.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [ALTER] [HD]" tvg-logo="http://lfpy.club/BIN9" group-title="Canais | HBO Max",MAX 6 [ALTER] [HD]
+http://ntvbr.cc:80/321671/819955/199964.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [FHD]" tvg-logo="http://lfpy.club/BJV3" group-title="Canais | HBO Max",MAX 6 [FHD]
+http://ntvbr.cc:80/321671/819955/195787.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [HD]" tvg-logo="http://lfpy.club/BHZ7" group-title="Canais | HBO Max",MAX 6 [HD]
+http://ntvbr.cc:80/321671/819955/195793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXO8" group-title="Canais | HBO Max",MAX 6 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283802.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [SD]" tvg-logo="http://lfpy.club/DPE4" group-title="Canais | HBO Max",MAX 6 [SD]
+http://ntvbr.cc:80/321671/819955/195799.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 7 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXO9" group-title="Canais | HBO Max",MAX 7 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283803.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 8 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP0" group-title="Canais | HBO Max",MAX 8 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 9 [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP2" group-title="Canais | HBO Max",MAX 9 [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283806.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX MOSAICO DA CHAMPIONS [HD] [ALTER]" tvg-logo="http://lfpy.club/MXP1" group-title="Canais | HBO Max",MAX MOSAICO DA CHAMPIONS [HD] [ALTER]
+http://ntvbr.cc:80/321671/819955/283805.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD]" tvg-logo="http://lfpy.club/APE" group-title="Canais | Filmes e Séries",MEGAPIX [FHD]
+http://ntvbr.cc:80/321671/819955/281.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD] [LEG]" tvg-logo="http://lfpy.club/JYY8" group-title="Canais | Legendados",MEGAPIX [FHD] [LEG]
+http://ntvbr.cc:80/321671/819955/169117.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD][H265]" tvg-logo="http://lfpy.club/WHC" group-title="Canais | Filmes e Séries",MEGAPIX [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30218.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [HD]" tvg-logo="http://lfpy.club/AQF" group-title="Canais | Filmes e Séries",MEGAPIX [HD]
+http://ntvbr.cc:80/321671/819955/310.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [HD] LEG" tvg-logo="http://lfpy.club/WIL" group-title="Canais | Legendados",MEGAPIX [HD] LEG
+http://ntvbr.cc:80/321671/819955/123510.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [SD]" tvg-logo="http://lfpy.club/ARC" group-title="Canais | Filmes e Séries",MEGAPIX [SD]
+http://ntvbr.cc:80/321671/819955/335.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [SD] LEG" tvg-logo="http://lfpy.club/WIM" group-title="Canais | Legendados",MEGAPIX [SD] LEG
+http://ntvbr.cc:80/321671/819955/123511.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLS [HD]" tvg-logo="" group-title="Canais | MLS",MLS [HD]
+http://ntvbr.cc:80/321671/819955/289592.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [FHD]" tvg-logo="http://lfpy.club/VMT" group-title="Canais | Variedades",MODO VIAGEM [FHD]
+http://ntvbr.cc:80/321671/819955/103.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [FHD][H265]" tvg-logo="http://lfpy.club/VMZ" group-title="Canais | Variedades",MODO VIAGEM [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30194.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [HD]" tvg-logo="http://lfpy.club/AJB" group-title="Canais | Variedades",MODO VIAGEM [HD]
+http://ntvbr.cc:80/321671/819955/112.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [SD]" tvg-logo="http://lfpy.club/AJK" group-title="Canais | Variedades",MODO VIAGEM [SD]
+http://ntvbr.cc:80/321671/819955/121.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV 00S [FHD]" tvg-logo="http://lfpy.club/VAV" group-title="Canais | Art & Music",MTV 00S [FHD]
+http://ntvbr.cc:80/321671/819955/108973.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV 00S [FHD][H265]" tvg-logo="http://lfpy.club/VAS" group-title="Canais | Art & Music",MTV 00S [FHD][H265]
+http://ntvbr.cc:80/321671/819955/90688.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV 00S [HD]" tvg-logo="http://lfpy.club/VAR" group-title="Canais | Art & Music",MTV 00S [HD]
+http://ntvbr.cc:80/321671/819955/90687.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV 00S [SD]" tvg-logo="http://lfpy.club/AFH" group-title="Canais | Art & Music",MTV 00S [SD]
+http://ntvbr.cc:80/321671/819955/8.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV LIVE [FHD]" tvg-logo="http://lfpy.club/VAG" group-title="Canais | Art & Music",MTV LIVE [FHD]
+http://ntvbr.cc:80/321671/819955/2.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [FHD][H265]" tvg-logo="http://lfpy.club/VAL" group-title="Canais | Art & Music",MTV LIVE [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30172.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [HD]" tvg-logo="http://lfpy.club/AFM" group-title="Canais | Art & Music",MTV LIVE [HD]
+http://ntvbr.cc:80/321671/819955/13.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [SD]" tvg-logo="http://lfpy.club/VAJ" group-title="Canais | Art & Music",MTV LIVE [SD]
+http://ntvbr.cc:80/321671/819955/6.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD]" tvg-logo="http://lfpy.club/VAF" group-title="Canais | Art & Music",MTV [FHD]
+http://ntvbr.cc:80/321671/819955/1.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD][H265]" tvg-logo="http://lfpy.club/VAO" group-title="Canais | Art & Music",MTV [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30175.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [HD]" tvg-logo="http://lfpy.club/VAK" group-title="Canais | Art & Music",MTV [HD]
+http://ntvbr.cc:80/321671/819955/15.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD]" tvg-logo="http://lfpy.club/VAH" group-title="Canais | Art & Music",MULTISHOW [FHD]
+http://ntvbr.cc:80/321671/819955/3.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD][H265]" tvg-logo="http://lfpy.club/VAM" group-title="Canais | Art & Music",MULTISHOW [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30173.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [HD]" tvg-logo="http://lfpy.club/AFO" group-title="Canais | Art & Music",MULTISHOW [HD]
+http://ntvbr.cc:80/321671/819955/16.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [SD]" tvg-logo="http://lfpy.club/AFJ" group-title="Canais | Art & Music",MULTISHOW [SD]
+http://ntvbr.cc:80/321671/819955/10.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD]" tvg-logo="http://lfpy.club/VAI" group-title="Canais | Art & Music",MUSIC BOX BRASIL [FHD]
+http://ntvbr.cc:80/321671/819955/4.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD][H265]" tvg-logo="http://lfpy.club/VAP" group-title="Canais | Art & Music",MUSIC BOX BRASIL [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30176.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [HD]" tvg-logo="http://lfpy.club/AFP" group-title="Canais | Art & Music",MUSIC BOX BRASIL [HD]
+http://ntvbr.cc:80/321671/819955/17.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [SD]" tvg-logo="http://lfpy.club/AFK" group-title="Canais | Art & Music",MUSIC BOX BRASIL [SD]
+http://ntvbr.cc:80/321671/819955/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 [HD]" tvg-logo="http://lfpy.club/NRL8" group-title="Canais | NBA",NBA 01 [HD]
+http://ntvbr.cc:80/321671/819955/299584.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 [HD]" tvg-logo="http://lfpy.club/NRL7" group-title="Canais | NBA",NBA 02 [HD]
+http://ntvbr.cc:80/321671/819955/299583.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 [HD]" tvg-logo="http://lfpy.club/NRL6" group-title="Canais | NBA",NBA 03 [HD]
+http://ntvbr.cc:80/321671/819955/299582.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 [HD]" tvg-logo="http://lfpy.club/NRL5" group-title="Canais | NBA",NBA 04 [HD]
+http://ntvbr.cc:80/321671/819955/299581.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05 [HD]" tvg-logo="http://lfpy.club/NRL4" group-title="Canais | NBA",NBA 05 [HD]
+http://ntvbr.cc:80/321671/819955/299580.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 [HD]" tvg-logo="http://lfpy.club/NRL3" group-title="Canais | NBA",NBA 06 [HD]
+http://ntvbr.cc:80/321671/819955/299579.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07 [HD]" tvg-logo="http://lfpy.club/NRL2" group-title="Canais | NBA",NBA 07 [HD]
+http://ntvbr.cc:80/321671/819955/299578.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08 [HD]" tvg-logo="http://lfpy.club/NRL1" group-title="Canais | NBA",NBA 08 [HD]
+http://ntvbr.cc:80/321671/819955/299577.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09 [HD]" tvg-logo="http://lfpy.club/NRL0" group-title="Canais | NBA",NBA 09 [HD]
+http://ntvbr.cc:80/321671/819955/299576.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 10 [HD]" tvg-logo="http://lfpy.club/NRK9" group-title="Canais | NBA",NBA 10 [HD]
+http://ntvbr.cc:80/321671/819955/299575.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11 [HD]" tvg-logo="http://lfpy.club/NRK8" group-title="Canais | NBA",NBA 11 [HD]
+http://ntvbr.cc:80/321671/819955/299574.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12 [HD]" tvg-logo="http://lfpy.club/NRK7" group-title="Canais | NBA",NBA 12 [HD]
+http://ntvbr.cc:80/321671/819955/299573.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD [HD]" tvg-logo="http://lfpy.club/KAN3" group-title="Canais | NBA",NBA HD [HD]
+http://ntvbr.cc:80/321671/819955/251761.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 [FHD]" tvg-logo="http://lfpy.club/DPG9" group-title="Canais | NBA",NBA League Pass 1 [FHD]
+http://ntvbr.cc:80/321671/819955/232637.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 [HD]" tvg-logo="http://lfpy.club/DPH5" group-title="Canais | NBA",NBA League Pass 1 [HD]
+http://ntvbr.cc:80/321671/819955/232643.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 [SD]" tvg-logo="http://lfpy.club/DPI1" group-title="Canais | NBA",NBA League Pass 1 [SD]
+http://ntvbr.cc:80/321671/819955/232649.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 [FHD]" tvg-logo="http://lfpy.club/DPH0" group-title="Canais | NBA",NBA League Pass 2 [FHD]
+http://ntvbr.cc:80/321671/819955/232638.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 [HD]" tvg-logo="http://lfpy.club/DPH6" group-title="Canais | NBA",NBA League Pass 2 [HD]
+http://ntvbr.cc:80/321671/819955/232644.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 [SD]" tvg-logo="http://lfpy.club/DPI2" group-title="Canais | NBA",NBA League Pass 2 [SD]
+http://ntvbr.cc:80/321671/819955/232650.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 [FHD]" tvg-logo="http://lfpy.club/DPH1" group-title="Canais | NBA",NBA League Pass 3 [FHD]
+http://ntvbr.cc:80/321671/819955/232639.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 [HD]" tvg-logo="http://lfpy.club/DPH7" group-title="Canais | NBA",NBA League Pass 3 [HD]
+http://ntvbr.cc:80/321671/819955/232645.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 [SD]" tvg-logo="http://lfpy.club/DPI3" group-title="Canais | NBA",NBA League Pass 3 [SD]
+http://ntvbr.cc:80/321671/819955/232651.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 [FHD]" tvg-logo="http://lfpy.club/DPH2" group-title="Canais | NBA",NBA League Pass 4 [FHD]
+http://ntvbr.cc:80/321671/819955/232640.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 [HD]" tvg-logo="http://lfpy.club/DPH8" group-title="Canais | NBA",NBA League Pass 4 [HD]
+http://ntvbr.cc:80/321671/819955/232646.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 [SD]" tvg-logo="http://lfpy.club/DPI4" group-title="Canais | NBA",NBA League Pass 4 [SD]
+http://ntvbr.cc:80/321671/819955/232652.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 [FHD]" tvg-logo="http://lfpy.club/DPH3" group-title="Canais | NBA",NBA League Pass 5 [FHD]
+http://ntvbr.cc:80/321671/819955/232641.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 [HD]" tvg-logo="http://lfpy.club/DPH9" group-title="Canais | NBA",NBA League Pass 5 [HD]
+http://ntvbr.cc:80/321671/819955/232647.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 [SD]" tvg-logo="http://lfpy.club/DPI5" group-title="Canais | NBA",NBA League Pass 5 [SD]
+http://ntvbr.cc:80/321671/819955/232653.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 [FHD]" tvg-logo="http://lfpy.club/DPH4" group-title="Canais | NBA",NBA League Pass 6 [FHD]
+http://ntvbr.cc:80/321671/819955/232642.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 [HD]" tvg-logo="http://lfpy.club/DPI0" group-title="Canais | NBA",NBA League Pass 6 [HD]
+http://ntvbr.cc:80/321671/819955/232648.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 [SD]" tvg-logo="http://lfpy.club/DPI6" group-title="Canais | NBA",NBA League Pass 6 [SD]
+http://ntvbr.cc:80/321671/819955/232654.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 [HD]" tvg-logo="http://lfpy.club/MXN1" group-title="Canais | NBA",NBA PASS 1 [HD]
+http://ntvbr.cc:80/321671/819955/251763.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 [FHD]" tvg-logo="http://lfpy.club/MXO0" group-title="Canais | NBA",NBA PASS 10 [FHD]
+http://ntvbr.cc:80/321671/819955/251772.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 11 [HD]" tvg-logo="http://lfpy.club/MXO1" group-title="Canais | NBA",NBA PASS 11 [HD]
+http://ntvbr.cc:80/321671/819955/251773.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 [FHD]" tvg-logo="http://lfpy.club/MXN2" group-title="Canais | NBA",NBA PASS 2 [FHD]
+http://ntvbr.cc:80/321671/819955/251764.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 [FHD]" tvg-logo="http://lfpy.club/MXN3" group-title="Canais | NBA",NBA PASS 3 [FHD]
+http://ntvbr.cc:80/321671/819955/251765.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 [FHD]" tvg-logo="http://lfpy.club/MXN4" group-title="Canais | NBA",NBA PASS 4 [FHD]
+http://ntvbr.cc:80/321671/819955/251766.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 [FHD]" tvg-logo="http://lfpy.club/MXN5" group-title="Canais | NBA",NBA PASS 5 [FHD]
+http://ntvbr.cc:80/321671/819955/251767.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 [FHD]" tvg-logo="http://lfpy.club/MXN6" group-title="Canais | NBA",NBA PASS 6 [FHD]
+http://ntvbr.cc:80/321671/819955/251768.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 [FHD]" tvg-logo="http://lfpy.club/MXN7" group-title="Canais | NBA",NBA PASS 7 [FHD]
+http://ntvbr.cc:80/321671/819955/251769.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 [FHD]" tvg-logo="http://lfpy.club/MXN8" group-title="Canais | NBA",NBA PASS 8 [FHD]
+http://ntvbr.cc:80/321671/819955/251770.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 [FHD]" tvg-logo="http://lfpy.club/MXN9" group-title="Canais | NBA",NBA PASS 9 [FHD]
+http://ntvbr.cc:80/321671/819955/251771.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS LIVE 1 [HD]" tvg-logo="http://lfpy.club/MXN0" group-title="Canais | NBA",NBA PASS LIVE 1 [HD]
+http://ntvbr.cc:80/321671/819955/251762.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV [HD]" tvg-logo="http://lfpy.club/NRL9" group-title="Canais | NBA",NBA TV [HD]
+http://ntvbr.cc:80/321671/819955/299585.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL [HD]" tvg-logo="http://lfpy.club/WKP" group-title="Canais | Esportes",NFL [HD]
+http://ntvbr.cc:80/321671/819955/126459.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD]" tvg-logo="http://lfpy.club/AJT" group-title="Canais | Infantis",NICK JR [FHD]
+http://ntvbr.cc:80/321671/819955/130.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD][H265]" tvg-logo="http://lfpy.club/WIX" group-title="Canais | Infantis",NICK JR [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30263.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [HD]" tvg-logo="http://lfpy.club/AKG" group-title="Canais | Infantis",NICK JR [HD]
+http://ntvbr.cc:80/321671/819955/144.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [SD]" tvg-logo="http://lfpy.club/AKT" group-title="Canais | Infantis",NICK JR [SD]
+http://ntvbr.cc:80/321671/819955/158.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [FHD]" tvg-logo="http://lfpy.club/AJU" group-title="Canais | Infantis",NICKELODEON [FHD]
+http://ntvbr.cc:80/321671/819955/131.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [FHD][H265]" tvg-logo="http://lfpy.club/WIY" group-title="Canais | Infantis",NICKELODEON [FHD][H265]
+http://ntvbr.cc:80/321671/819955/30264.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [HD]" tvg-logo="http://lfpy.club/AKH" group-title="Canais | Infantis",NICKELODEON [HD]
+http://ntvbr.cc:80/321671/819955/145.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [SD]" tvg-logo="http://lfpy.club/AKU" group-title="Canais | Infantis",NICKELODEON [SD]
+http://ntvbr.cc:80/321671/819955/159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 [HD]" tvg-logo="" group-title="Canais | Nosso Futebol",Nosso Futebol 1 [HD]
+http://ntvbr.cc:80/321671/819955/283780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 [HD]" tvg-logo="" group-title="Canais | Nosso Futebol",Nosso Futebol 2 [HD]
+http://ntvbr.cc:80/321671/819955/234038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 [HD]" tvg-logo="" group-title="Canais | Nosso Futebol",Nosso Futebol 2 [HD]
+http://ntvbr.cc:80/321671/819955/234049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 [HD]" tvg-logo="" group-title="Canais | Nosso Futebol",Nosso Futebol 4 [HD]
+http://ntvbr.cc:80/321671/819955/234035.ts
