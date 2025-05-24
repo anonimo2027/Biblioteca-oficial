@@ -1,3 +1,7 @@
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://lfpy.club/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
+#EXTM3U
+
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="02",A&E FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
+
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CARTOON NETWORK" tvg-logo="https://jogosdehoje.live/src/images/thumb-channel/cartoon-network.webp" group-title="02",CARTOON NETWORK
+http://onecdz.xyz:80/844876939/805772826/23495|User-Agent=VLC/4.6.0
