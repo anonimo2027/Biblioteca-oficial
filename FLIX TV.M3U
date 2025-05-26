@@ -1,7 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="02",A&E FHD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
-
-#EXTINF:-1 tvg-id="aande.br" tvg-name="CARTOON NETWORK" tvg-logo="https://jogosdehoje.live/src/images/thumb-channel/cartoon-network.webp" group-title="02",CARTOON NETWORK
-http://onecdz.xyz:80/844876939/805772826/23495|User-Agent=VLC/4.6.0
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://cc90.one/APQ" group-title="02",A&E [FHD]
+http://pfsv.io:80/58882809/799379/293.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD][H265]" tvg-logo="http://cc90.one/WHI" group-title="02",A&E [FHD][H265]
+http://pfsv.io:80/58882809/799379/30227.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://cc90.one/APV" group-title="02",A&E [HD]
+http://pfsv.io:80/58882809/799379/299.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [SD]" tvg-logo="http://cc90.one/AQR" group-title="02",A&E [SD]
+http://pfsv.io:80/58882809/799379/324.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://cc90.one/ARX3" group-title="02",ADULT SWIM [HD]
+http://pfsv.io:80/58882809/799379/199850.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo="http://cc90.one/ARX2" group-title="02",ADULT SWIM [SD]
+http://pfsv.io:80/58882809/799379/199849.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="AgroMais [FHD]" tvg-logo="http://cc90.one/VRH" group-title="Canais | Variedades",AgroMais [FHD]
+http://pfsv.io:80/58882809/799379/109512.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [FHD][H265]" tvg-logo="" group-title="Canais | Variedades",AgroMais [FHD][H265]
+http://pfsv.io:80/58882809/799379/234104.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [FHD][HDR]" tvg-logo="" group-title="Canais | Variedades",AgroMais [FHD][HDR]
+http://pfsv.io:80/58882809/799379/234103.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [HD]" tvg-logo="" group-title="Canais | Variedades",AgroMais [HD]
+http://pfsv.io:80/58882809/799379/234105.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AgroMais [SD]" tvg-logo="" group-title="Canais | Variedades",AgroMais [SD]
+http://pfsv.io:80/58882809/799379/234106.ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC [FHD]" tvg-logo="http://cc90.one/WGS" group-title="02",AMC [FHD]
+http://pfsv.io:80/58882809/799379/294.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [FHD][H265]" tvg-logo="http://cc90.one/WHJ" group-title="02",AMC [FHD][H265]
+http://pfsv.io:80/58882809/799379/30228.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [HD]" tvg-logo="http://cc90.one/APW" group-title="02",AMC [HD]
+http://pfsv.io:80/58882809/799379/300.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [SD]" tvg-logo="http://cc90.one/AQS" group-title="02",AMC [SD]
+http://pfsv.io:80/58882809/799379/325.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://cc90.one/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
+http://pfsv.io:80/58882809/799379/164.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://cc90.one/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
+http://pfsv.io:80/58882809/799379/30248.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://cc90.one/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://pfsv.io:80/58882809/799379/179.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://cc90.one/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://pfsv.io:80/58882809/799379/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 01 [HD]
+http://pfsv.io:80/58882809/799379/300146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 02 [HD]
+http://pfsv.io:80/58882809/799379/300147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 03 [HD]" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="Canais | Apple TV",Apple TV 03 [HD]
+http://pfsv.io:80/58882809/799379/300148.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD]" tvg-logo="http://cc90.one/AKZ" group-title="Canais | Documentários",ARTE 1 [FHD]
+http://pfsv.io:80/58882809/799379/165.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD][H265]" tvg-logo="http://cc90.one/WHP" group-title="Canais | Documentários",ARTE 1 [FHD][H265]
+http://pfsv.io:80/58882809/799379/30249.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [HD]" tvg-logo="http://cc90.one/ALN" group-title="Canais | Documentários",ARTE 1 [HD]
+http://pfsv.io:80/58882809/799379/180.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [SD]" tvg-logo="http://cc90.one/AMB" group-title="Canais | Documentários",ARTE 1 [SD]
+http://pfsv.io:80/58882809/799379/195.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD]" tvg-logo="http://cc90.one/APR" group-title="02",AXN [FHD]
+http://pfsv.io:80/58882809/799379/295.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD] LEG" tvg-logo="http://cc90.one/WID" group-title="Canais | Legendados",AXN [FHD] LEG
+http://pfsv.io:80/58882809/799379/122939.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD][H265]" tvg-logo="http://cc90.one/WGX" group-title="02",AXN [FHD][H265]
+http://pfsv.io:80/58882809/799379/30206.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://cc90.one/APX" group-title="02",AXN [HD]
+http://pfsv.io:80/58882809/799379/301.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD] LEG" tvg-logo="http://cc90.one/WIB" group-title="Canais | Legendados",AXN [HD] LEG
+http://pfsv.io:80/58882809/799379/122933.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://cc90.one/AQT" group-title="02",AXN [SD]
+http://pfsv.io:80/58882809/799379/326.ts
