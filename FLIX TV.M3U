@@ -64,3 +64,16 @@ http://pfsv.io:80/58882809/799379/301.ts
 http://pfsv.io:80/58882809/799379/122933.ts
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://cc90.one/AQT" group-title="02",AXN [SD]
 http://pfsv.io:80/58882809/799379/326.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [FHD]" tvg-logo="http://cc90.one/AWX" group-title="01",RECORD NEWS [FHD]
+http://cfp10.pro:80/58882809/799379/511.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [FHD][H265]" tvg-logo="http://cc90.one/VNC" group-title="01",RECORD NEWS [FHD][H265]
+http://cfp10.pro:80/58882809/799379/30197.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [HD]" tvg-logo="http://cc90.one/VMU" group-title="01",RECORD NEWS [HD]
+http://cfp10.pro:80/58882809/799379/515.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [SD]" tvg-logo="http://cc90.one/AXF" group-title="01",RECORD NEWS [SD]
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil Money [FHD]" tvg-logo="http://cc90.one/EGO9" group-title="01",CNN Brasil Money [FHD]
+http://cfp10.pro:80/58882809/799379/249504.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil Money [HD]" tvg-logo="http://cc90.one/EGO8" group-title="01",CNN Brasil Money [HD]
+http://cfp10.pro:80/58882809/799379/249503.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [FHD][HDR]" tvg-logo="http://cc90.one/JYU2" group-title="01",CNN BRASIL [FHD][HDR]
+http://cfp10.pro:80/58882809/799379/130230.ts
