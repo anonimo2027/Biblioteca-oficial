@@ -3,14 +3,13 @@
 <channels>
 
 <channel>
-<name>[B]FILMES[/B]</name>
-<info>Melhores lançamentos do ano você encontra aqui no anônimo, caso você esteja aguardando algum filme sair do cinema solicite já a sua sugestão e veremos a possibilidade o seu pedido ser adicionado.</info>
+<title>Dragon Ball DAIMA</title>
+<year>2024</year>
+<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jd0UJBrusmiNqLLP7Jxk1mmCWHS.jpg</fanart>
+<info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
 <externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/lancamento.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]SÉRIES[/B]</name>
-<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/Tags/menu.xml</externallink>
 </channel>
 
   
