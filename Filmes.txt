@@ -60,7 +60,7 @@ description="Após uma tragédia familiar, o prodígio do kung fu Li Fong é for
 skin_id="sxxx"
 
 name="Premonição 6: Laços de Sangue"
-url="https://www.mediafire.com/file/c0yfqm38zl36k8q/Premonição+6+Laços+de+Sangue+(2025).zip/file"
+url="https://www.mediafire.com/file/c0yfqm38zl36k8q/01.zip/file"
 poster="https://image.tmdb.org/t/p/original/niTRdfNCT29PXU9YpPPuISrBIw7.jpg"
 fanart="https://image.tmdb.org/t/p/original/7wKnf6ILtRmKXV8eJWk0P6ZXnQ.jpg"
 description="Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda."
