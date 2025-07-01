@@ -59,7 +59,11 @@
 <genre>Ação, Aventura, Thriller</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/5izmRuuqPh9Uq1xJU1EizdUBi6b.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aEG09hZZEDZ23Y9WYI701W6Gwnb.jpg</fanart>
-<link>https://ia601509.us.archive.org/27/items/f-575265/F-575265.mkv</link> 
+<link>https://ia601509.us.archive.org/27/items/f-575265/F-575265-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-575265/F-575265-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-575265/F-575265-HD.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-575265/F-575265-HD.mp4$$lsname= ASSISTIR EM SD</link> 
 <info>Depois de escapar de um acidente de trem calamitoso, Ethan percebe que a Entidade está escondida a bordo de um antigo submarino russo, mas um inimigo do seu passado chamado Gabriel também está no encalço.</info>
 </item>
 
