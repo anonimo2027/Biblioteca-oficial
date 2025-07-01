@@ -143,7 +143,11 @@
 <genre>Família, Fantasia</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/t0mabA2l3KE9Ai350BEKz61Ltor.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg</fanart>
-<link>https://ia601509.us.archive.org/27/items/f-447273/F-447273.mkv</link> 
+<link>https://ia601509.us.archive.org/27/items/f-447273/F-447273-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-447273/F-447273-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-447273/F-447273-HD.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-447273/F-447273-HD.mp4$$lsname= ASSISTIR EM SD</link>  
 <info>Quando a Rainha Má manda matarem sua enteada por inveja de sua beleza, Branca de Neve foge do reino. Ela percorre a floresta e acha uma casinha onde vivem sete anões amigáveis com quem passa viver. Porém, a moça ainda não está a salvo, já que a bruxa planeja dar um fim a sua vida com uma maçã envenenada.</info>
 </item>
 
