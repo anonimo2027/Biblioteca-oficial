@@ -157,7 +157,11 @@
 <genre>Ação, Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/gxYDG8IpN9x6Cxtz09W3QpH0is6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg</fanart>
-<link>https://ia601509.us.archive.org/27/items/f-911430/F-911430.mkv</link> 
+<link>https://ia601509.us.archive.org/27/items/f-911430/F-911430-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-911430/F-911430-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-911430/F-911430-HD.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-911430/F-911430-HD.mp4$$lsname= ASSISTIR EM SD</link>  
 <info>Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.</info>
 </item>
 
@@ -167,7 +171,11 @@
 <genre>Ação, Thriller, Crime</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/by5hjYJp3OJ8GW118kPeURp1rFo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg</fanart>
-<link>https://ia601509.us.archive.org/27/items/f-541671/F-541671.mkv</link> 
+<link>https://ia601509.us.archive.org/27/items/f-541671/F-541671-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-541671/F-541671-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-541671/F-541671-HD.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-541671/F-541671-HD.mp4$$lsname= ASSISTIR EM SD</link> 
 <info>A história de uma jovem assassina nas tradições dos Ruska Roma para buscar vingança contra aqueles que destruíram sua família.</info>
 </item>
 
