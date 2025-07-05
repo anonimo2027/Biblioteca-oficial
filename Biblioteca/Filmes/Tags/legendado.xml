@@ -303,12 +303,18 @@
 </item>
 
 <item>
-<title></title>
+<title>Tornado</title>
 <year>2025</year>
-<genre>Terror</genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Drama, Thriller, Crime, Ação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/vRCXxDdAQPjPrJgxKyDyxkb0dDt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tgqltfwH7CDQF2MUgUZIZLZfkHx.jpg</fanart>
+<link>https://ia601509.us.archive.org/27/items/f-1126915/F-1126915-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1126915/F-1126915-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1126915/F-1126915-HDL.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-1126915/F-1126915-HD.mp4$$lsname= ASSISTIR EM SD</link>
+<link>https://ia601509.us.archive.org/27/items/f-1126915/F-1126915.mkv$$lsname= ASSISTIR TRAILER</link>
+<info>Na Grã-Bretanha em 1790, um show itinerante de marionetes japonês cruza o caminho de criminosos implacáveis, mas um dos artistas, Tornado, elabora um plano para enganá-los em seu próprio jogo.</info>
 </item>
 
 
