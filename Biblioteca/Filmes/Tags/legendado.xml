@@ -393,12 +393,18 @@
 </item>
 
 <item>
-<title></title>
+<title>Deva</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Ação, Thriller, Mistério, Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/gHIyRuVTs3sbvyDaH6kOHeDCEeD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/31IRJ8SD4DB85o8RWYZQXvTqVs2.jpg</fanart>
+<link>https://ia601509.us.archive.org/27/items/f-1195430/F-1195430-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1195430/F-1195430-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1195430/F-1195430-HDL.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-1195430/F-1195430-HD.mp4$$lsname= ASSISTIR EM SD</link>
+<link>https://ia601509.us.archive.org/27/items/f-1195430/F-1195430.mkv$$lsname= ASSISTIR TRAILER</link>
+<info>Um policial jovem e obstinado pega um caso complicado e decide agir por conta própria. Afinal, vale tudo para desmantelar uma rede letal de corrupção e mentiras.</info>
 </item>
 
 <item>
