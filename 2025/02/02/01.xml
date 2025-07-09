@@ -412,13 +412,13 @@
 </channel>
 
 <channel>
-<name></name>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<name>Twisted Metal</name>
+<year>2023</year>
+<genre>Ação e Aventura, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xmDhagFdAfbkDFL6YpV3Vfe9OMl.jpg</fanart>
+<info>Um forasteiro deve atravessar uma terra arrasada pós-apocalíptica para entregar um pacote misterioso em busca da promessa de uma vida melhor.</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/2025/02/01//133748//133748-menu.xml</externallink>
 </channel>
 
 <channel>
