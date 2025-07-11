@@ -2,12 +2,18 @@
 <items>
 
 <item>
-<title></title>
-<year></year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Moana 2</title>
+<year>2024</year>
+<genre>Animação, Aventura, Família, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/A1NUWVjoKzWzOdGE01NHquyubkx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg</fanart>
+<link>https://ia601509.us.archive.org/27/items/f-1241984/F-1241982-4K.mkv$$lsname= ASSISTIR EM 4K</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1241984/F-1241982-3D.mkv$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia601509.us.archive.org/27/items/f-1241984/F-1241982-HD.mkv$$lsname= ASSISTIR EM FULL HD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>  
+<link>https://ia601509.us.archive.org/27/items/f-1241984/F-1241982-HD.mp4$$lsname= ASSISTIR EM SD</link>
+<link>https://ia601509.us.archive.org/27/items/f-1241984/F-1241982.mkv$$lsname= ASSISTIR TRAILER</link>
+<info>Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.</info>
 </item>
 
 <item>
