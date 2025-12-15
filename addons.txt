@@ -1,4 +1,4 @@
-name="[B][COLOR red]TEA[/COLOR] [COLOR blue]ddon[/COLOR][/B] 4.0.0+nexus.1"
+name="[B][COLOR red]TEA[/COLOR] [COLOR blue]ddon[/COLOR][/B]"
 url="https://ia801005.us.archive.org/18/items/t-este-/tema-1.0.zip"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/TEAddon1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/TEAddon2.png"
