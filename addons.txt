@@ -1,6 +1,6 @@
 name="[B][COLOR red]TEA[/COLOR] [COLOR blue]ddon[/COLOR][/B] 4.0.0+nexus.1"
 url="https://ia801005.us.archive.org/18/items/t-este-/tema-1.0.zip"
 iconimage="https://ia801605.us.archive.org/11/items/m-o-d-e-m-/01.png"
-fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/tema-1.0.gif"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/TEAddon2.png"
 description="Esse addon é focado em filmes e séries via elemento com ele você pode assistir aos melhores filmes e séries mais atualizado do momento, se você gostar do addon faça uma colaboração para ajudar o desenvolvedor Ah está trazendo a atualização novidade para o seu addon."
 skin_id=""
