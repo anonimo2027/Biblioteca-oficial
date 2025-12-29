@@ -1,5 +1,5 @@
 name="TEMA 1.0"
-url="hhttps://www.mediafire.com/file/ejsy4a5ylqj81ix/teste.zip/file"
+url="https://ia601507.us.archive.org/1/items/onli-ne/teste.zip"
 iconimage="https://ia801605.us.archive.org/11/items/m-o-d-e-m-/01.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/tema-1.0.gif"
 description="tema 1.0 é uma versão leve e rápida  sem muitos recursos é ideal para TV Box fraca tablet e celular."
