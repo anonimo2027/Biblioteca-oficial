@@ -1,6 +1,6 @@
 name="TEMA 1.0"
 url="https://ia601507.us.archive.org/1/items/onli-ne/Kodi.zip"
 iconimage="https://ia801605.us.archive.org/11/items/m-o-d-e-m-/01.png"
-fanart="https://tse1.mm.bing.net/th/id/OIP.KrHC7ldERCpop3Hj5BoHIQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/kodi.png"
 description="Esse tema é uma versão do Kodi original com uma pegada do flixbox, fizemos alguns ajustes na skin padrão ele já vai com algum addons pré- instalado como repositório super brasileiro, Repositorio OnePlay, Vikings Repositorio, f4mtester, EZ Maintenance+."
 skin_id=""
