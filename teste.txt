@@ -11,3 +11,10 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/2.0.png"
 description="Tema 2.0 e uma skin leve especial para TV Box fraca."
 skin_id="skin.flixbox"
+
+name="TEMA 2.0"
+url="https://archive.org/download/g-a-m-e-s/3.0.zip"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/2.0.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/2.0.png"
+description="Tema 2.0 e uma skin leve especial para TV Box fraca."
+skin_id="skin.flixbox"
