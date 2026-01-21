@@ -4,3 +4,10 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
 description="Você está à procura de um tema bonito e fácil de configurar então você precisa conhecer o Flixbox Confluence 1.0 da para você criar atalhos é muito mais com esse tema, aproveite ja."
 skin_id="skin.flixbox"
+
+name="Flixbox Estuary 1.0"
+url="https://ia601507.us.archive.org/1/items/onli-ne/1.0.zip"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Estuary-1.0-poster.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Estuary-1.0-fn.png"
+description="Se você está à procura de um tema super leve sem muitas opções na tela inicial esse tema foi feito para você."
+skin_id="skin.flixbox"
