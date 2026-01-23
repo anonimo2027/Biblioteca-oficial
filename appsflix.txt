@@ -1,4 +1,4 @@
-name="Pré-configuração 1.0"
+name="Pré-configuração 2.0"
 url="C:\Users\FLIXBOX\Downloads\addons.zip"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/pre-configura%C3%A7%C3%B5es-1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
