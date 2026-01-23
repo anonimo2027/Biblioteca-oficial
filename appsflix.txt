@@ -1,5 +1,5 @@
-name="Pré-configuração 1.5"
-url="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/addons.zip"
+name="Pré-configuração 1.7"
+url="https://ia600601.us.archive.org/24/items/appsflix1ww/appsflix1.zip"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/pre-configura%C3%A7%C3%B5es-1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
 description="Um dos melhores conjuntos de addons para canais de TV, Com apenas um clique você baixa f4mteste, bazuca play, plugin streaming, AguiaGold,  Super Servido Brasileiro, repository.dregs, vkkodi.repo. Ao finalizar basta fechar o aplicativo e abrir novamente e configurar seus addons em ajuste de skin."
