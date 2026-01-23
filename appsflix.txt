@@ -1,4 +1,4 @@
-name="Pré-configuração 1.0"
+name="Pré-configuração 1.0 Flixbox"
 url="https://ia601707.us.archive.org/29/items/appsflix1/appsflix1.zip"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/pre-configura%C3%A7%C3%B5es-1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
