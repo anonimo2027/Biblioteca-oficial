@@ -2,6 +2,6 @@ name="Pré-configuração 1.0"
 url="https://ia601507.us.archive.org/1/items/onli-ne/1.0.zip"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/pre-configura%C3%A7%C3%B5es-1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
-description="Você está à procura de um tema bonito e fácil de configurar então você precisa conhecer o Flixbox Confluence 1.0 da para você criar atalhos é muito mais com esse tema, aproveite ja."
+description="Um dos melhores conjuntos de addons para canais de TV, Com apenas um clique você baixa f4mteste versão antiga, bazuca play, plugin streaming "
 skin_id="skin.flixbox"
 
