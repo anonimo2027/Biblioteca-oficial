@@ -1,6 +1,0 @@
-name="Truque de Mestre: O 3° Ato"
-url="https://ia801005.us.archive.org/18/items/t-este-/tema-1.0.zip"
-iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/05.png"
-fanart="https://image.tmdb.org/t/p/original/k3Cr2PY8TSvn4giiym404JDLOJC.jpg"
-description="Os Quatro Cavaleiros estão de volta com uma nova geração de ilusionistas e uma trama cheia de reviravoltas, mágicas e surpresas, em um truque que envolve a joia mais valiosa do mundo."
-skin_id=""

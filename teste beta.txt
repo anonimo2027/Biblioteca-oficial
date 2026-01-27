@@ -1,6 +1,0 @@
-name="TEMA FLIXBOX 1.0"
-url="https://ia601005.us.archive.org/18/items/t-este-/tema-teste02.zip"
-iconimage="https://ia801605.us.archive.org/11/items/m-o-d-e-m-/01.png"
-fanart="https://i.ytimg.com/vi/s6poue9tp44/maxresdefault.jpg"
-description="TEMA DE TESTE POR FLIXBOX OFICIAL"
-skin_id=""
