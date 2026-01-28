@@ -1,7 +1,7 @@
 name="FLIXBOX"
 url="https://ia601507.us.archive.org/1/items/onli-ne/1.0.zip"
-iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-poster.png"
-fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Flixbox-Confluence-1.0-fan.png"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox1.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
 description="Se você quer assistir filme e séries animes videoclipe e muito mais baixe já esse plugin do flixbox Oficial e divirta-se assistindo os melhores conteúdos, caso não encontre aquele filme ou aquela série favorita basta enviar sua sugestões e veremos a possibilidade de ser adicionado"
 skin_id="skin.flixbox"
 
