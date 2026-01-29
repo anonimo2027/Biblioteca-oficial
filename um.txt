@@ -1,0 +1,6 @@
+name="TEMA 1.0"
+url="https://ia601507.us.archive.org/1/items/onli-ne/1.0.zip"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/tema1.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
+description="Se você tá à procura de um tema bonito e leve, baixe esse tema 1.0 com essa versão você consegue criar atalhos e deixar do seu jeito."
+skin_id="skin.flixbox"
