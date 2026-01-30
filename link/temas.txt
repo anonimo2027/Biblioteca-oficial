@@ -1,6 +1,6 @@
 name="TEMA 1.0"
 url="https://www.mediafire.com/file/bhgr6v16czucj7o/skin.flixbox.zip/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/tema1.png"
-fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/temai1.0.png"
 description="Se você tá à procura de um tema bonito e leve, baixe esse tema 1.0 com essa versão você consegue criar atalhos e deixar do seu jeito."
 skin_id="skin.flixbox"
