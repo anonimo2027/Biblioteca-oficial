@@ -5,7 +5,7 @@ fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/he
 description="Se você procura um skin bonito, é fácil de configurar, recomendo que você faça a instalação desse tema, não se preocupe se você não gostar você pode desinstalar sem perder as suas configurações."
 skin_id="skin.flixbox"
 
-name="TEMA 3.0"
+name="TEMA 4.0"
 url="https://www.mediafire.com/file/3gw5yfly5s787p8/skin.flixboxbeta.zip/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/beta1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/beta1.png"
