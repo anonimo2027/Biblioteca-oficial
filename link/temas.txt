@@ -4,3 +4,11 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/temai1.0.png"
 description="Se você procura um skin bonito, é fácil de configurar, recomendo que você faça a instalação desse tema, não se preocupe se você não gostar você pode desinstalar sem perder as suas configurações."
 skin_id="skin.flixbox"
+
+name="TEMA 3.0"
+url="https://www.mediafire.com/file/3gw5yfly5s787p8/skin.flixboxbeta.zip/file"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/beta1.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/beta1.png"
+description="Atenção, esse tema está sendo modificado, o que está disponível no momento é uma versão Beta para você analisar como está ficando se você tiver alguma sugestões você pode entrar em contato comigo veremos possibilidade da sua sugestão ser adicionado nesse tema.
+Antes de fazer a instalação recomendo que você faça um backup"
+skin_id="skin.flixbox"
