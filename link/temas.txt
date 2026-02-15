@@ -11,3 +11,11 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/beta1.png"
 description="Atenção, esse tema está sendo modificado, Antes de fazer a instalação recomendo que você faça um backup"
 skin_id="skin.flixbox"
+
+
+name="FLIXBOX"
+url="https://www.mediafire.com/file/2unwtcbucxk8jb3/Flixbox_Oficial.zip/file"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox4.png"
+description="Atenção, esse tema está sendo modificado, Antes de fazer a instalação recomendo que você faça um backup"
+skin_id="skin.flixbox"
