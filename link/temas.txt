@@ -14,7 +14,7 @@ skin_id="skin.flixbox"
 
 
 name="FLIXBOX"
-url=""
+url="https://www.mediafire.com/file/2unwtcbucxk8jb3/Flixbox_Oficial.zip/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox4.png"
 description="Se você estava à procura de um addon com filmes, séries com link direto então você precisa experimentar o flixbox oficial com ele você tem filme séries anime novela é muito mais basta enviar sua sugestão e será adicionado mais rápido possível."
