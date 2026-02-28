@@ -1,6 +1,6 @@
 
 name="FLIXBOX 1.0"
-url="https://www.mediafire.com/file/tn7xv7wv2oy2pd8/FLIXBOX_OFICIAL_64.apk/file"
+url="https://www.mediafire.com/file/tn7xv7wv2oy2pd8/FLIXBOX-1.3.apk/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/apkflixbox.png"
 fanart="https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/flixboxapkfn.png?raw=true"
 description="FLIXBOX É UM APK DO KODI MODIFICADO COM VÁRIOS RECURSOS, TEMAS PARA VOCE ESCOLHER"
