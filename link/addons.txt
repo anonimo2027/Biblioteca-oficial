@@ -1,5 +1,5 @@
-name="PRÉ-CONFIGURAÇÃO PRO"
-url="https://www.mediafire.com/file/ipo4d4r6rk1k17p/windows.zip/file"
+name="1.0"
+url="https://www.mediafire.com/file/kh8250gmv0qh95o/android-32.zip/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox1.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox2.png"
 description="ESSA PRÉ CONFIGURAÇÃO SUPER LEVE, ELA VAI COM F4MTESTE, PLUGIN STREAMING, AGUIA VAVOO, REPOSITÓRIOS PARA VOCÊ INSTALAR SEUS ADDONS FAVORITOS"
