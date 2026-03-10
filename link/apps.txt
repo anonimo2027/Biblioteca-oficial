@@ -1,6 +1,6 @@
 
-name="FLIXBOX 1.4"
-url="https://www.mediafire.com/file/4c481vqp52rvse8/FLIXBOX-1.4.apk/file"
+name="FLIXBOX 1.4-BETA"
+url="https://www.mediafire.com/file/kh8250gmv0qh95o/android-32.zip/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/apkflixbox.png"
 fanart="https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/flixboxapkfn.png?raw=true"
 description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
