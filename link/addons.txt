@@ -2,6 +2,5 @@ name="IPTV"
 url="https://www.mediafire.com/file/kh8250gmv0qh95o/android-32.zip/file"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlKh7FfSmq6Ic98VTsHfn_TS5MFmrKluFcg&s"
 fanart="https://i.pinimg.com/1200x/c3/a4/35/c3a435dabb705a535e79acfb766598b2.jpg"
-description="Essa configuração é feita para amantes de IPTV, selecionamos melhores addons de IPTV de acordo com pesquisa nos grupos do Facebook.
-Com ele tem f4mteste versão antiga, configurada os três play ativado"
+description="Essa configuração é feita para amantes de IPTV, selecionamos melhores addons de IPTV de acordo com pesquisa nos grupos do Facebook Com ele tem f4mteste versão antiga, configurada os três play ativado"
 skin_id="skin.flixbox"
