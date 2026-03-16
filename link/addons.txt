@@ -4,10 +4,3 @@ iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlKh7FfSmq6Ic9
 fanart="https://i.pinimg.com/1200x/c3/a4/35/c3a435dabb705a535e79acfb766598b2.jpg"
 description="se seu foco for iptv e em economizar espaço então você precisa baixar essa pre configuração com ela você tem f4mteste,  repositório super-brasileiro"
 skin_id="skin.flixbox"
-
-name="2.0"
-url="https://www.mediafire.com/file/kh8250gmv0qh95o/android-32.zip/file"
-iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/pre1.0.png"
-fanart="https://wallpapers.com/images/high/android-honeycomb-desktop-my9vyyjkk3i4ih60.webp"
-description="ESSA PRÉ CONFIGURAÇÃO SUPER LEVE, ELA VAI COM F4MTESTE, PLUGIN STREAMING, AGUIA VAVOO, REPOSITÓRIOS PARA VOCÊ INSTALAR SEUS ADDONS FAVORITOS"
-skin_id="skin.flixbox"
