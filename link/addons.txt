@@ -6,7 +6,7 @@ description="Essa pré-configuração é feita especialmente para quem gosta de 
 skin_id="skin.flixbox"
 
 name="Logo do Leão"
-url="https://www.mediafire.com/file/15h0xld9t4bg0n6/splash.zip/file"
+url="https://www.mediafire.com/file/vho6ze66pyigu26/media.zip/file"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlKh7FfSmq6Ic98VTsHfn_TS5MFmrKluFcg&s"
 fanart="https://i.pinimg.com/1200x/c3/a4/35/c3a435dabb705a535e79acfb766598b2.jpg"
 description="Que tal substituir a logo do flixbox por uma logo mais bonita, veja a imagem antes de baixar"
