@@ -7,15 +7,8 @@ skin_id="skin.flixbox"
 
 name="Logo do Leão"
 url="https://www.mediafire.com/file/vho6ze66pyigu26/media.zip/file"
-iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlKh7FfSmq6Ic98VTsHfn_TS5MFmrKluFcg&s"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/logo1.png"
 fanart="https://i.pinimg.com/1200x/c3/a4/35/c3a435dabb705a535e79acfb766598b2.jpg"
 description="Que tal substituir a logo do flixbox por uma logo mais bonita, veja a imagem antes de baixar"
-skin_id="skin.flixbox"
-
-name="Pânico 7 (2026)"
-url="https://www.mediafire.com/file/mvrekam8pa6dlk4/Bibliotecas.zip/file"
-iconimage="https://image.tmdb.org/t/p/original/rEevavl5vebCVEd5imx7D1k8nmV.jpg"
-fanart="https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
-description="Quando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas."
 skin_id="skin.flixbox"
 
