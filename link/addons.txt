@@ -12,3 +12,10 @@ fanart="https://i.pinimg.com/1200x/9f/9a/8c/9f9a8cd23abdf4edb261f8ea31ec969f.jpg
 description="Que tal substituir a logo do flixbox por uma logo mais bonita, veja a imagem antes de baixar"
 skin_id="skin.flixbox"
 
+name="pré-configuração"
+url="https://www.mediafire.com/file/n1zyw65mesn3l8i/Pre.zip/file"
+iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
+fanart=""
+description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
+skin_id="skin.flixbox"
+
