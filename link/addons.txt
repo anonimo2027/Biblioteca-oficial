@@ -20,7 +20,7 @@ description="Você tiver algum problema no elemento baixa essa pre  configuraç�
 skin_id="skin.flixbox"
 
 name="IPTV PT-PT"
-url=""
+url="https://www.mediafire.com/file/s8pxhireayfma9e/IPTV-PT.zip/file"
 iconimage="https://cdn-ileichc.nitrocdn.com/nexBmIWgnKWsiXiGsMVwsUtgVQwWwVVP/assets/images/optimized/rev-08337ff/iiptvportugal.com/wp-content/uploads/2025/10/WhatsApp_Image_2025-10-20_at_21.43.23-removebg-preview.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/iptv.ptpt.png"
 description="E aí procurando por uma lista de IPTV simples clientes do Portugal agora você encontrou baixa já essa configuração divirta-se assistindo os melhores canais do português portugal."
