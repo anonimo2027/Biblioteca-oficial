@@ -5,3 +5,10 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/teste.png"
 description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
 skin_id="skin.flixbox"
+
+name="FLIXBOX 1.4 LITE"
+url="https://www.mediafire.com/file/bb3s0kfoecdlju7/FLIXBOX-LITE.apk/file"
+iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox1.4.png"
+fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/teste.png"
+description="Antes de clicar em pré-configuração verifique se FLIXBOX.zip está na pasta do download do seu dispositivo."
+skin_id="skin.flixbox"
